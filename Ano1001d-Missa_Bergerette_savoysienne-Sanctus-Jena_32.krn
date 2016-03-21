@@ -192,7 +192,7 @@
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
-*met(C)	*met(C)	*met(C)	*met(C)
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Pleni sunt celi
 !!!OMD: Pleni sunt celi
 0r	0r	0r	1.dd
@@ -289,7 +289,7 @@
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
-*met(C)	*met(C)	*met(C)	*met(C)
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !	!LO:TX:Z=19:t=(Same music as the Pleni, down a fifth)	!	!
 !!section: Gloria tua
 !!!OMD: Gloria tua
@@ -387,7 +387,7 @@
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
-*met(C)	*met(C)	*met(C)	*met(C)
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Osanna
 !!!OMD: Osanna
 0C	1e	0c	0cc
@@ -586,7 +586,7 @@
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
-*met(C)	*met(C)	*met(C)	*met(C)
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Benedictus
 !!!OMD: Benedictus
 1.c	0c	0r	0r
@@ -746,4 +746,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2013/08/14/
 !!!ONB:	Translated from MusicXML and edited on 2013/08/14/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SMS}, @{folio-OPR}^i2I150v85,85,85,100Q16
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SMS}, @{folio-OPR}^i2I150v85,85,85,150c150
