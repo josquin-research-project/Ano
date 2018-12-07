@@ -1,6 +1,6 @@
 !!!COM:	Anonymous
 !!!OTL:	Puisque &agrave; chascun ris / Pardonnez moi / L'autrier m'aloie
-!!!AGN:	Song; Chanson
+!!!AGN:	Song; Combinative Chanson; Rondeau
 !!!SCT:	Ano3030
 !!!SCA:	Ano3030
 !!!SMS:	Dijon Chansonnier
@@ -9,8 +9,8 @@
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
-*I"Contratenor	*I"Tenor2	*I"Tenor1	*I"Superius
-*I'Ct	*I'T2	*I'T1	*I'S
+*I"Contratenor	*I"Tenor2	*I"Tenor1	*I"Discantus
+*I'Ct	*I'T2	*I'T1	*I'D
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[b-]	*k[b-]	*k[b-]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
@@ -223,4 +223,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2016/02/23/
 !!!ONB:	Translated from MusicXML and edited on 2016/02/23/ by Craig Sapp
-!!muse2ps: C^@{COM}\n@{SMS} @{folio}^v85,85,85,150Q16
+!!muse2ps: C^@{COM}\n@{SMS}, @{folio}^v85,85,85,150Q16

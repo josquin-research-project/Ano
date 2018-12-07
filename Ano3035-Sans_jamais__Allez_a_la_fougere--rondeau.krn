@@ -1,6 +1,6 @@
 !!!COM:	Anonymous
 !!!OTL:	Sans jamais / Allez &agrave; la foug&egrave;re
-!!!AGN:	Song; Chanson
+!!!AGN:	Song; Combinative Chanson; Rondeau
 !!!SCT:	Ano3035
 !!!SCA:	Ano3035
 !!!SMS:	Dijon Chansonnier
@@ -9,8 +9,8 @@
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
-*I"Contratenor2	*I"Tenor	*I"Contratenor1	*I"Superius
-*I'Ct2	*I'T	*I'Ct1	*I'S
+*I"Contratenor2	*I"Tenor	*I"Contratenor1	*I"Discantus
+*I'Ct2	*I'T	*I'Ct1	*I'D
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[b-]	*k[b-]	*k[b-]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
@@ -198,4 +198,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2016/02/22/
 !!!ONB:	Translated from MusicXML and edited on 2016/02/22/ by Craig Sapp
-!!muse2ps: C^@{COM}\n@{SMS} @{folio}^v85,85,85,150Q16
+!!muse2ps: C^@{COM}\n@{SMS}, @{folio}^v85,85,85,150Q16

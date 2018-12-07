@@ -1,16 +1,16 @@
 !!!COM:	Anonymous
 !!!OTL:	Soubz les branches / En la rous&eacute;e / Jolis mois
-!!!AGN:	Song; Chanson
+!!!AGN:	Song; Combinative Chanson; Rondeau
 !!!SCT:	Ano3038
 !!!SCA:	Ano3038
 !!!SMS:	Dijon Chansonnier
-!!!folio:	
+!!!folio:	174v-175r
 !!!voices:	4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
-*I"Contratenor	*I"Tenor2	*I"Tenor1	*I"Superius
-*I'Ct	*I'T2	*I'T1	*I'S
+*I"Contratenor	*I"Tenor2	*I"Tenor1	*I"Discantus
+*I'Ct	*I'T2	*I'T1	*I'D
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
@@ -208,4 +208,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2016/02/22/
 !!!ONB:	Translated from MusicXML and edited on 2016/02/22/ by Craig Sapp
-!!muse2ps: C^@{COM}\n@{SMS} @{folio}^v85,85,85,150Q16
+!!muse2ps: C^@{COM}\n@{SMS}, @{folio}^v85,85,85,150Q16
