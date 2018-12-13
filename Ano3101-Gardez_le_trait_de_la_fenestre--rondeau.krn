@@ -57,8 +57,6 @@
 .	.	2c
 4e	.	.
 =6	=6	=6
-!LO:TX:Z=24:t=Apparent MS error&colon;	!	!
-!LO:TX:Y=24:t=added stems to m. 6, notes 3 & 8, & rest in m. 7	!	!
 4d	0.F]	2.f
 4c	.	.
 1c	.	.
@@ -147,7 +145,6 @@
 =16	=16	=16
 2.c	0.CN	0.eN
 4B	.	.
-!LO:TX:X=-40:Z=32:t=semibreve (MS error)	!	!
 0GN	.	.
 =17	=17	=17
 0.r	0.r	0.r
@@ -179,7 +176,6 @@
 1C]	4c]	1e
 .	4B-i	.
 .	2G	.
-!LO:TX:X=-40:Z=24:t=no dot (MS)	!	!
 2.c	2A	2.f
 .	1F	.
 4B	.	4e
