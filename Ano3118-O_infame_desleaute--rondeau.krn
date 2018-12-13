@@ -4,8 +4,8 @@
 !!!SCT:	Ano3118
 !!!SCA:	Ano3118
 !!!SMS:	Dijon Chansonnier
-!!!folio:	
-!!!SMS2: Wofenb&uuml;tel Chansonnier
+!!!folio:	151v-152r
+!!!SMS2: Wolf
 !!!voices:	3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
@@ -265,4 +265,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2018/12/07/
 !!!ONB:	Translated from MusicXML and edited on 2018/12/07/ by Craig Sapp
-!!muse2ps: C^@{COM}\nDijon Chansonnier, 151v-152r; also Wolf;tel Chansonniers^v95,95,150c140
+!!muse2ps: C^@{COM}\nDijon Chansonnier, @{folio}; also @{SMS2}^v95,95,150c140
