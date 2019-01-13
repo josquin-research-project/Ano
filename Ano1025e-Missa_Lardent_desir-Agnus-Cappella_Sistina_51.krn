@@ -99,12 +99,12 @@
 =12	=12	=12	=12	=12	=12	=12	=12
 1BB-i	-ta	0d	mun-	2f]	.	1B-i	-ta
 .	.	.	.	2B-	.	.	.
-2r	.	.	.	1.B-	-ta	1f	mun-
+2r	.	.	.	1.B-i	-ta	1f	mun-
 1.BB-i	mun-	.	.	.	.	.	.
 .	.	[1B-i	.	.	.	2g	.
 .	.	.	.	[2f	mun-	[2b-i	.
 =13	=13	=13	=13	=13	=13	=13	=13
-2D	.	1B-]	.	2f]	.	2b-]	.
+2D	.	1B-i]	.	2f]	.	2b-i]	.
 2E	.	.	.	4e	.	2g	.
 .	.	.	.	4d	.	.	.
 1F	.	0A	.	2c	.	2f	.
@@ -164,7 +164,7 @@
 .	.	.	.	.	.	4f	.
 [2GG	.	.	.	[2B-i	.	[2g	.
 =20	=20	=20	=20	=20	=20	=20	=20
-2GG]	.	0E]	.	4B-i]	.	4g]	.
+2GG]	.	0E]	.	4B-]	.	4g]	.
 .	.	.	.	4A	.	4f	.
 2AA	.	.	.	1A	.	4e	.
 .	.	.	.	.	.	4d	.
@@ -688,6 +688,8 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 *MM400	*	*MM400	*	*MM400	*	*MM400	*
 !	!	!LO:TX:X=-40:Z=12:t=T replaces each note value by its opposite (e.g., minims become maximas)	!	!	!	!	!
+!!section: Agnus dei III
+!!!OMD: Agnus dei III
 [0D	A-	0r	.	[0F	A-	[0d	A-
 =130	=130	=130	=130	=130	=130	=130	=130
 0D_	.	[0A	A-	0F_	.	0d]	.
