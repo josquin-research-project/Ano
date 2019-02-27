@@ -805,8 +805,8 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
-*MM300	*	*MM300	*	*MM300	*	*MM300	*
+*met(C3)	*	*met(C3)	*	*met(C3)	*	*met(C3)	*
+*MM450	*	*MM450	*	*MM450	*	*MM450	*
 !!section: Benedictus
 !!!OMD: Benedictus
 !	!	!	!	!	!	!LO:TX:X=-40:Z=8:t=3-ex-1 canon	!
