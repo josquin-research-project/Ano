@@ -25,7 +25,7 @@
 !!!OMD: Et in terra pax
 !!section: Et in terra pax
 *	*	*rscale:1/4	*	*	*	*	*
-!	!	!LO:TX:Z=8:X=-40:t=T&colon; "In triplo crescere debet" [two levels of augmentation]	!	!	!	!	!
+!	!	!LO:TX:Z=8:X=-40:t=T: "In triplo crescere debet" [two levels of augmentation]	!	!	!	!	!
 !	!	!LO:N:vis=0.	!	!	!	!	!
 0.r	.	0.r	.	0.G	Et	0g	Et
 .	.	.	.	.	.	1b-	in
@@ -316,7 +316,7 @@
 .	.	.	.	.	.	1f	.
 .	.	.	.	4G	.	.	.
 .	.	.	.	1A	-ni-	.	.
-2E#	.	.	.	.	.	2g	.
+2Eni	.	.	.	.	.	2g	.
 1F	.	.	.	1D	-po-	1a	.
 =39	=39	=39-	=39	=39	=39	=39	=39
 2.G	-ni-	[0.Gl	-tens.	1d	-tens,	2.b-	-ni-
@@ -526,7 +526,7 @@
 !!!OMD: Qui tollis
 !!section: Qui tollis
 *	*	*rscale:1/8	*	*	*	*	*
-!	!	!LO:TX:X=-40:Z=18:t=T&colon; "In triplo crescit sed clausulando decrescit"	!	!	!	!	!
+!	!	!LO:TX:X=-40:Z=18:t=T: "In triplo crescit sed clausulando decrescit"	!	!	!	!	!
 !	!	!LO:TX:X=-40:Z=3:t=[aug. at decreasing levels in successive phrases, beginning with 3 levels of aug.]	!	!	!	!	!
 !	!	!LO:N:vis=0	!	!	!	!	!
 0B-	Qui	0r	.	0r	.	1.d	Qui
@@ -607,7 +607,7 @@
 1C	.	.	.	.	.	1G	mi-
 =84	=84	=84-	=84	=84	=84	=84	=84
 0GG	-di,	0ryy	.	1r	.	1.B-	.
-!	!	!	!	!LO:TX:Z=12:t=MS&colon; e	!	!	!
+!	!	!	!	!LO:TX:Z=12:t=MS: e	!	!	!
 .	.	.	.	1D	mi-	.	.
 .	.	.	.	.	.	2G	.
 =85	=85	=85-	=85	=85	=85	=85	=85
@@ -806,7 +806,7 @@
 =136	=136	=136-	=136	=136	=136	=136	=136
 !	!	!LO:N:vis=2	!	!	!	!	!
 1r	.	[y0A	-ram	1c]	.	1e	.
-!	!	!	!	!LO:TX:Z=12:t=MS&colon; b	!	!	!
+!	!	!	!	!LO:TX:Z=12:t=MS: b	!	!	!
 1D	mi-	.	.	1A	.	[1f	pa-
 =137	=137	=137-	=137	=137	=137	=137	=137
 0D	-se-	0A]yy	.	0F	.	2f]	.
@@ -903,7 +903,7 @@
 .	.	.	.	.	.	4e	.
 .	.	.	.	.	.	4d	.
 =157	=157	=157-	=157	=157	=157	=157	=157
-!	!	!	!	!LO:TX:Z=12:t=MS&colon; d	!	!	!
+!	!	!	!	!LO:TX:Z=12:t=MS: d	!	!	!
 0F	-am	0A]yy	.	0F	Quo-	1c	-am
 .	.	.	.	.	.	1c	tu
 =158	=158	=158-	=158	=158	=158	=158	=158
@@ -1003,7 +1003,7 @@
 =182	=182	=182	=182	=182	=182	=182	=182
 !	!	!LO:N:vis=1	!	!	!	!	!
 1C]	.	[y0G	-si-	1c]	.	1g]	.
-!	!	!	!	!LO:TX:Z=12:t=MS&colon; f'	!	!	!
+!	!	!	!	!LO:TX:Z=12:t=MS: f'	!	!	!
 1GG	.	.	.	[1d	-tis-	1g	-si-
 =183	=183	=183-	=183	=183	=183	=183	=183
 1BB-	.	0G]yy	.	1d]	.	1d	.
@@ -1085,7 +1085,7 @@
 .	.	.	.	.	.	1f#i	.
 =204	=204	=204	=204	=204	=204	=204	=204
 *	*	*	*	*^	*	*	*
-0GGl	-ste.	0Gl	-ste.	0B-l\	0dl/	-ste.	0gl	-ste.
+0GGl	-ste.	0Gl	-ste.	0B-l\	0dl	-ste.	0gl	-ste.
 *	*	*	*	*v	*v	*	*	*
 !!LO:LB:i:g=z
 =205||	=205||	=205||	=205||	=205||	=205||	=205||	=205||
@@ -1187,10 +1187,10 @@
 0D	.	0F	.	.	.	1.a	.
 .	.	.	.	4c	.	.	.
 .	.	.	.	1A	.	.	.
-!	!	!	!	!	!	!LO:TX:Z=12:t=MS&colon; e'	!
+!	!	!	!	!	!	!LO:TX:Z=12:t=MS: e'	!
 .	.	.	.	2D	.	[2f	.
 =217	=217	=217	=217	=217	=217	=217	=217
-!	!	!	!	!LO:TX:Z=12:t=MS&colon; 2 m	!	!	!
+!	!	!	!	!LO:TX:Z=12:t=MS: 2 m	!	!	!
 2r	.	0D	-a	2.F	.	2f]	.
 2D	A-	.	.	.	.	2b-	.
 .	.	.	.	4G	.	.	.
