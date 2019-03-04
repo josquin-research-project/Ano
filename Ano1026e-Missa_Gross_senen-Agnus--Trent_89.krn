@@ -22,8 +22,8 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-e-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!!!OMD: Agnus dei I
-!!section: Agnus dei I
+!!!OMD: Agnus I
+!!section: Agnus I
 !	!	!LO:TX:Z=8:t=T&colon; twofold augmentation [no MS instruction]	!	!	!	!	!
 *	*	*rscale:1/2	*	*	*	*	*
 !	!	!LO:N:vis=0	!	!	!	!	!
@@ -353,7 +353,9 @@
 .	.	.	.	2B-	.	.	.
 [1GGl	-bis.	.	.	1e-i	.	.	.
 =59	=59	=59	=59	=59	=59	=59	=59
-0GG]	.	0G]	.	0B- 0dl	-bis.	0g]	.
+*	*	*	*	*^	*	*	*
+0GG]	.	0G]	.	0B-l\	0dl/	-bis.	0g]	.
+*	*	*	*	*v	*v	*	*	*
 *	*	*rscale:1	*	*	*	*	*
 !!LO:LB:i:g=z
 =60||	=60||	=60||	=60||	=60||	=60||	=60||	=60||
@@ -362,8 +364,8 @@
 *k[b-e-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!!OMD: Agnus dei II
-!!section: Agnus dei II
+!!!OMD: Agnus II
+!!section: Agnus II
 0r	.	0r	.	1.D	A-	0r	.
 .	.	.	.	2E	.	.	.
 =61	=61	=61	=61	=61	=61	=61	=61
@@ -700,6 +702,8 @@
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*
 *MM300	*	*MM300	*	*MM300	*	*MM300	*
+!!!OMD: Agnus III
+!!section: Agnus III
 1G	A-	0r	.	1G	A-	1.G	A-
 1E-	-gnus	.	.	2B-	-gnus	.	.
 .	.	.	.	2c	.	2G	-gnus
