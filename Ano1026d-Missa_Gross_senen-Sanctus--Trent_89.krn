@@ -27,7 +27,7 @@
 !!section: Sanctus
 !!!OMD: Sanctus
 *	*	*rscale:1/4	*	*	*	*	*
-!	!	!LO:TX:X=-40:Z=8:t=T: ``Notas triplabus pausasque recte iurando [numerando?]'' [two levels of augmentation]	!	!	!	!	!
+!	!	!LO:TX:X=-40:Z=8:t=T&colon; ``Notas triplabus pausasque recte iurando [numerando?]'' [two levels of augmentation]	!	!	!	!	!
 !	!	!LO:N:vis=1.	!	!	!	!	!
 0.r	.	0.r	.	0.G	Sanc-	0g	Sanc-
 .	.	.	.	.	.	[1b-	.
@@ -203,7 +203,7 @@
 .	.	.	.	4B-	-mi-	.	.
 .	.	.	.	4c	.	.	.
 =21	=21	=21	=21	=21	=21	=21	=21
-!	!	!	!	!	!	!LO:TX:Z=12:t=MS: perf br	!
+!	!	!	!	!	!	!LO:TX:Z=12:t=MS&colon; perf br	!
 !	!	!LO:N:vis=1.	!	!	!	!	!
 [0.D	-nus	[y0.A	-nus	0d	-nus	0f	-mi-
 .	.	.	.	2r	.	[1f	-nus
@@ -215,7 +215,7 @@
 .	.	.	.	[1d	-us	1f	.
 =23	=23	=23-	=23	=23	=23	=23	=23
 0GG	de-	0G	de-	1d]	.	1g	.
-!	!	!	!	!LO:TX:Z=12:t=MS: sb r	!	!	!
+!	!	!	!	!LO:TX:Z=12:t=MS&colon; sb r	!	!	!
 .	.	.	.	2r	.	1b-	.
 .	.	.	.	2.d	sa-	.	.
 !	!	!LO:N:vis=1	!	!	!	!	!
@@ -282,7 +282,7 @@
 2AA	.	0.A]yy	.	2c]	.	1a	.
 1D	.	.	.	1r	.	.	.
 .	.	.	.	.	.	2d	.
-!	!	!	!	!LO:TX:Z=12:t=MS: sb	!	!	!
+!	!	!	!	!LO:TX:Z=12:t=MS&colon; sb	!	!	!
 2C	.	.	.	2c	de-	2e	.
 1D	.	.	.	2A	.	1f	.
 .	.	.	.	[2d	.	.	.
@@ -317,7 +317,7 @@
 1AA	-us,	0c	-ba-	2A	-ba-	2.cc	.
 .	.	.	.	4G	.	.	.
 .	.	.	.	4F	.	4b-	.
-!LO:TX:Z=12:t=MS: 2 sb r	!	!	!	!	!	!	!
+!LO:TX:Z=12:t=MS&colon; 2 sb r	!	!	!	!	!	!	!
 1r	.	.	.	1E	.	1g	.
 =35	=35	=35-	=35	=35	=35	=35	=35
 1F	de-	0d	-oth,	1D	-oth,	1a	.
@@ -542,7 +542,7 @@
 1G	.	.	.	1C	.	1c	.
 =85.	=85.	=85.	=85.	=85.	=85.	=85.	=85.
 1A	.	0r	.	1F	.	1d	.
-!LO:TX:Z=12:t=MS: f sb	!	!	!	!	!	!	!
+!LO:TX:Z=12:t=MS&colon; f sb	!	!	!	!	!	!	!
 1Eni	.	.	.	1G	.	1e	.
 =86	=86	=86	=86	=86	=86	=86	=86
 1D	-ra,	0r	.	1A	.	1f	-ra,
@@ -578,7 +578,7 @@
 *met(O2)	*	*met(O2)	*	*met(O2)	*	*met(O2)	*
 !!section: Gloria tua
 !!!OMD: Gloria tua
-!	!	!	!	!LO:TX:X=-40:Z=24:t=MS: altus lacking. Completion by JR	!	!	!
+!	!	!	!	!LO:TX:X=-40:Z=24:t=MS&colon; altus lacking. Completion by JR	!	!	!
 0r	.	0r	.	0e-Xi	Glo-	0r	.
 =94.	=94.	=94.	=94.	=94.	=94.	=94.	=94
 0B-	Glo-	0r	.	0d	-ri-	0r	.
@@ -712,8 +712,8 @@
 *	*	*rscale:1/2	*	*	*	*	*
 !!section: Osanna I
 !!!OMD: Osanna I
-!	!	!LO:TX:X=-40:Z=4:t=T: Initially twofold aug., altering the second of pairs of minims.	!	!	!	!	!
-!	!	!LO:TX:X=-40:Z=24:t=T: ``Cantandus tenor est triplaris notaque pausa Sed clausulando decrescere bene canendo''	!	!	!	!	!
+!	!	!LO:TX:X=-40:Z=4:t=T&colon; Initially twofold aug., altering the second of pairs of minims.	!	!	!	!	!
+!	!	!LO:TX:X=-40:Z=24:t=T&colon; ``Cantandus tenor est triplaris notaque pausa Sed clausulando decrescere bene canendo''	!	!	!	!	!
 0.G	O-	1r	.	[0.d	O-	0.g	O-
 .	.	0G	O-	.	.	.	.
 =128	=128	=128.	=128	=128	=128	=128	=128
@@ -721,7 +721,7 @@
 .	.	0d	-na,	1A	-san-	.	.
 1BB-	.	.	.	1B-	.	1b-	.
 =129	=129	=129	=129	=129	=129	=129	=129
-!LO:TX:Z=12:t=MS: G	!	!	!	!	!	!	!
+!LO:TX:Z=12:t=MS&colon; G	!	!	!	!	!	!	!
 1FF	.	1c	.	1c	.	1a	.
 0C	.	0c	o-	1.e-Xi	.	0g	.
 .	.	.	.	2d	.	.	.
@@ -737,7 +737,7 @@
 .	.	.	.	2B-	.	.	.
 .	.	.	.	.	.	8fL	.
 .	.	.	.	.	.	8eJ	.
-!	!	!	!	!LO:TX:Z=12:t=MS: 2 m	!	!	!
+!	!	!	!	!LO:TX:Z=12:t=MS&colon; 2 m	!	!	!
 2r	.	0F	.	2.d	.	2.d	.
 2D	o-	.	.	.	.	.	.
 .	.	.	.	4e	.	4c	.
@@ -782,7 +782,7 @@
 1D	-cel-	1A	ex-	4d]	.	1f	-sis,
 .	.	.	.	4c	.	.	.
 .	.	.	.	2.d	.	.	.
-!LO:TX:Z=12:t=MS: f	!	!	!	!	!	!	!
+!LO:TX:Z=12:t=MS&colon; f	!	!	!	!	!	!	!
 1E-	.	0G	.	.	.	2r	.
 .	.	.	.	4c	.	.	.
 .	.	.	.	4A	.	2g	ex-
@@ -790,7 +790,7 @@
 1C	.	.	.	1c	-sis,	2.e	-cel-
 .	.	.	.	.	.	4d	.
 =138	=138	=138.	=138	=138	=138	=138	=138
-!	!	!	!	!LO:TX:Z=12:t=MS: a-b-c' md sm m	!	!	!
+!	!	!	!	!LO:TX:Z=12:t=MS&colon; a-b-c' md sm m	!	!	!
 1D	.	1F	-cel-	2A	in	2f	.
 .	.	.	.	2B-	.	2g	.
 0F	.	0D	.	2A	ex-	0a	-sis,
@@ -815,7 +815,7 @@
 =140	=140	=140.	=140	=140	=140	=140	=140
 *	*	*	*	*M3/1	*	*	*
 *	*	*	*	*met(O)	*	*	*
-!LO:TX:Z=12:t=MS: 2 void br	!	!LO:TX:Z=12:t=T: No augmentation	!	!	!	!	!
+!LO:TX:Z=12:t=MS&colon; 2 void br	!	!LO:TX:Z=12:t=T&colon; No augmentation	!	!	!	!	!
 *	*	*rscale:1	*	*	*	*	*
 0A	-cel-	0D	.	1.d	-sis,	1f	.
 .	.	.	.	.	.	1.f	ex-
@@ -840,7 +840,7 @@
 .	.	.	.	2d	ex-	.	.
 1F	.	1A	.	2c	-cel-	.	.
 .	.	.	.	2A	.	1f	.
-!	!	!	!	!LO:TX:Z=12:t=MS: g	!	!	!
+!	!	!	!	!LO:TX:Z=12:t=MS&colon; g	!	!	!
 2r	.	1d	.	2B-	.	.	.
 2BB-	ex-	.	.	2F	-sis,	[2b-	.
 =143	=143	=143	=143	=143	=143	=143	=143
@@ -874,7 +874,7 @@
 =146	=146	=146.	=146	=146	=146	=146	=146
 2F	.	2c	.	2c	.	2a	.
 2BB-	.	2d	.	2B-	.	2.b-	.
-!LO:TX:Z=12:t=MS: d c	!	!	!	!	!	!	!
+!LO:TX:Z=12:t=MS&colon; d c	!	!	!	!	!	!	!
 1E-	.	2B-	.	4G	.	.	.
 .	.	.	.	2B-	.	4a	.
 .	.	2G	.	.	.	2.g	.
@@ -919,7 +919,7 @@
 =154	=154	=154	=154	=154	=154	=154	=154
 0r	.	0r	.	1c	.	1.a	-dic-
 .	.	.	.	[1d	.	.	.
-!	!	!	!	!	!	!LO:TX:Z=12:t=MS: g' m	!
+!	!	!	!	!	!	!LO:TX:Z=12:t=MS&colon; g' m	!
 .	.	.	.	.	.	4g	.
 .	.	.	.	.	.	4a	.
 =155	=155	=155	=155	=155	=155	=155	=155
@@ -1126,7 +1126,7 @@
 =206	=206	=206	=206	=206	=206	=206	=206
 2G]	.	0r	.	0d	.	0r	.
 2F	.	.	.	.	.	.	.
-!LO:TX:Z=12:t=MS: 2 m	!	!	!	!	!	!	!
+!LO:TX:Z=12:t=MS&colon; 2 m	!	!	!	!	!	!	!
 1D	.	.	.	.	.	.	.
 =207	=207	=207	=207	=207	=207	=207	=207
 2E-	.	0r	.	0c	-nit,	0r	.
@@ -1141,7 +1141,7 @@
 .	.	.	.	1c	qui	.	.
 =210	=210	=210	=210	=210	=210	=210	=210
 1D	-nit,	0r	.	1d	.	0r	.
-!	!	!	!	!LO:TX:Z=12:t=MS: c'	!	!	!
+!	!	!	!	!LO:TX:Z=12:t=MS&colon; c'	!	!	!
 1G	.	.	.	1B-	.	.	.
 =211	=211	=211	=211	=211	=211	=211	=211
 1r	.	0r	.	0e-Xi	ve-	0r	.
@@ -1329,7 +1329,7 @@
 .	.	.	.	3AZ	.	3cZ	.
 =253	=253	=253	=253	=253	=253	=253	=253
 0r	.	0r	.	3%2GV	.	3%2eV	.
-!	!	!	!	!LO:TX:Z=18:t=MS: e	!	!	!
+!	!	!	!	!LO:TX:Z=18:t=MS&colon; e	!	!	!
 .	.	.	.	3%2F	.	3%2.f	.
 .	.	.	.	[3%2DZ	.	.	.
 .	.	.	.	.	.	3eZ	.
@@ -1393,7 +1393,7 @@
 =270	=270	=270	=270	=270	=270	=270	=270
 1G]	.	0r	.	1.e-Xi	.	2b-]	.
 .	.	.	.	.	.	2a	.
-!LO:TX:Z=12:t=MS: d	!	!	!	!	!	!	!
+!LO:TX:Z=12:t=MS&colon; d	!	!	!	!	!	!	!
 [1C	.	.	.	.	.	2g	.
 .	.	.	.	2d	.	2f	.
 =271	=271	=271	=271	=271	=271	=271	=271
@@ -1452,7 +1452,7 @@
 =284	=284	=284	=284	=284	=284	=284	=284
 1Eni	.	0r	.	1c	.	2a]	.
 .	.	.	.	.	.	2g	.
-!LO:TX:Z=12:t=MS: c	!	!	!	!	!	!	!
+!LO:TX:Z=12:t=MS&colon; c	!	!	!	!	!	!	!
 1D	.	.	.	1d	-mi-	1f	-mi-
 =285	=285	=285	=285	=285	=285	=285	=285
 1AA	.	0r	.	1c	-ni,	1e	-ni,
@@ -1592,7 +1592,7 @@
 [0F	.	0r	.	1d]	.	[0a	in
 .	.	.	.	1c	.	.	.
 =325.	=325.	=325.	=325.	=325.	=325.	=325.	=325
-!	!	!	!	!LO:TX:Z=12:t=MS: b sb	!	!	!
+!	!	!	!	!LO:TX:Z=12:t=MS&colon; b sb	!	!	!
 1F]	.	0r	.	1A	ex-	1a]	.
 1D	.	.	.	[1d	-cel-	2g	ex-
 .	.	.	.	.	.	2f	.
@@ -1651,7 +1651,7 @@
 1C	.	.	.	1G	o-	1e	.
 =341.	=341.	=341.	=341.	=341.	=341.	=341.	=341
 1BB-	-san-	0r	.	1B-	-san-	1d	-san-
-!LO:TX:Z=12:t=MS: G	!	!	!	!	!	!	!
+!LO:TX:Z=12:t=MS&colon; G	!	!	!	!	!	!	!
 1FF	.	.	.	1A	.	1f	.
 =342	=342	=342	=342	=342	=342	=342	=342
 1C	-na,	0r	.	0G	.	1e	.
