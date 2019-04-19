@@ -24,9 +24,9 @@
 *met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*
 =1	=1	=1	=1	=1	=1	=1	=1
 *	*	*rscale:1/2	*	*	*	*	*
-!!section: Kyrie  I
-!!!OMD: Kyrie  I
-!	!	!LO:TX:Z=8:t=T&colon; "Notas  duplicabus  ad  ymum"  [double  note  values]	!	!	!	!	!
+!!section: Kyrie I
+!!!OMD: Kyrie I
+!	!	!LO:TX:Z=8:t=T&colon; "Notas duplicabus ad ymum" [double note values]	!	!	!	!	!
 !	!	!LO:N:vis=0	!	!	!	!	!
 0r	.	0r	.	[0G	Ky-	0g	Ky-
 =2	=2	=2-	=2	=2	=2	=2	=2
@@ -92,7 +92,7 @@
 .	.	.	.	4c	.	.	.
 .	.	.	.	2A	.	.	.
 .	.	.	.	1d	.	.	.
-!	!	!	!	!	!	!LO:TX:Z=12a:t=MS&colon; b'  dotted  sb	!
+!	!	!	!	!	!	!LO:TX:Z=12a:t=MS&colon; b' dotted sb	!
 .	.	.	.	.	.	4g	.
 .	.	.	.	.	.	4a	.
 =13	=13	=13	=13	=13	=13	=13	=13
@@ -272,7 +272,7 @@
 2r	.	.	.	2r	.	1c	.
 2F	e-	.	.	2F	e-	.	.
 =47	=47	=47	=47	=47	=47	=47	=47
-!	!	!	!	!LO:TX:Z=12:t=MS&colon; 2  m	!	!	!
+!	!	!	!	!LO:TX:Z=12:t=MS&colon; 2 m	!	!	!
 2.E-	-lei-	0B-	-lei-	2.G	.	1.g	.
 4D	.	.	.	4A	.	.	.
 2.BB-	.	.	.	2B-	.	.	.
@@ -343,7 +343,7 @@
 .	.	.	.	2r	.	.	.
 .	.	.	.	2d	e-	2f	.
 =61	=61	=61	=61	=61	=61	=61	=61
-!	!	!	!	!	!	!LO:TX:Z=12:t=MS&colon; 3.5  sb  lacking	!
+!	!	!	!	!	!	!LO:TX:Z=12:t=MS&colon; 3.5 sb lacking	!
 2r	.	0A	-son,	2c	.	0a	-e
 2D	e-	.	.	2.d	-lei-	.	.
 1D	-lei-	.	.	.	.	.	.
@@ -364,7 +364,7 @@
 1E-	ky-	.	.	.	.	1r	.
 .	.	.	.	3%2GZ	.	.	.
 =65	=65	=65	=65	=65	=65	=65	=65
-!	!	!	!	!	!	!LO:TX:Z=24:t=MS&colon; sb-4  m	!
+!	!	!	!	!	!	!LO:TX:Z=24:t=MS&colon; 1sb 4m	!
 1D	.	0d	-e	3.AV	.	3dV	ky-
 .	.	.	.	.	.	3f	.
 .	.	.	.	6G	.	.	.
@@ -389,7 +389,7 @@
 1A	.	1c	.	0r	.	6a]V	.
 .	.	.	.	.	.	6g	.
 .	.	.	.	.	.	3%2e	.
-!	!	!	!	!	!	!LO:TX:Z=24:t=MS&colon; d'-f'	!
+!	!	!	!	!	!	!LO:TX:Z=28:t=MS&colon; d'-f'	!
 1D	.	1d	.	.	.	3%2f	.
 .	.	.	.	.	.	[3aZ	-ri-
 =69	=69	=69	=69	=69	=69	=69	=69
@@ -655,8 +655,8 @@
 *k[b-e-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C)	*	*met(C|)	*	*met(C|)	*
-!!section: Kyrie  II
-!!!OMD: Kyrie  II
+!!section: Kyrie II
+!!!OMD: Kyrie II
 *	*	*rscale:1/2	*	*	*	*	*
 !	!	!LO:N:vis=0	!	!	!	!	!
 [0G	Ky-	0r	.	0G	Ky-	[0g	Ky-
@@ -716,7 +716,7 @@
 1G	-lei-	1r	.	1B-	.	0d	-son,
 1F	.	1D	e-	1A	.	.	.
 =153	=153	=153-	=153	=153	=153	=153	=153
-!	!	!	!	!	!	!LO:TX:Z=12:t=MS&colon; sb  r	!
+!	!	!	!	!	!	!LO:TX:Z=12:t=MS&colon; sb r	!
 1D	.	1F	.	0d	-son,	0r	.
 1GG	.	1G	.	.	.	.	.
 =154	=154	=154	=154	=154	=154	=154	=154
@@ -766,7 +766,7 @@
 .	.	.	.	[1F	e-	.	.
 2C	.	.	.	.	.	.	.
 =167	=167	=167-	=167	=167	=167	=167	=167
-!LO:TX:Z=12:t=MS&colon; 2  sb	!	!	!	!	!	!	!
+!LO:TX:Z=12:t=MS&colon; 2 sb	!	!	!	!	!	!	!
 1.AA	.	0ryy	.	2F]	.	0r	.
 .	.	.	.	2G	.	.	.
 .	.	.	.	[1A	.	.	.
