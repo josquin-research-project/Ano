@@ -24,7 +24,7 @@
 !!section: Patrem
 !!!OMD: Patrem
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!	!	!LO:TX:X=-40:Z=3:t=T to be read in O2, omitting stems	!	!	!	!	!
+!	!	!LO:TX:X=-40:Z=3:t=T to be read in O with perfect modus, omitting stems	!	!	!	!	!
 0.r	.	0.r	.	0.A	Pa-	[0.a	Pa-
 =2	=2	=2	=2	=2	=2	=2	=2
 0.r	.	0.r	.	0.c	-trem	1a]	.
@@ -780,6 +780,7 @@
 *MM400	*	*MM400	*	*MM400	*	*MM400	*
 !!section: Et resurrexit
 !!!OMD: Et resurrexit
+!	!	!LO:TX:X=-40:Z=3:t=T to be read down a 4th	!	!	!	!	!
 0D	Et	0r	.	[0d	Et	0f	Et
 =135.	=135.	=135.	=135.	=135.	=135.	=135.	=135.
 1D	re-	0r	.	0d]	.	1f	re-
