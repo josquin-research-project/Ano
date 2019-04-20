@@ -26,7 +26,7 @@
 !!section: Et in terra pax
 *	*	*rscale:1/4	*	*	*	*	*
 !	!	!LO:TX:Z=8:X=-40:t=T&colon; "In triplo crescere debet" [two levels of augmentation]	!	!	!	!	!
-*	*	*LO:N:vis=1.	*	*	*	*	*
+!	!	!LO:N:vis=1.	!	!	!	!	!
 0.r	.	0.r	.	0.G	Et	0g	Et
 .	.	.	.	.	.	1b-	in
 =2	=2	=2-	=2	=2	=2	=2	=2
@@ -35,7 +35,7 @@
 .	.	.	.	2c	ter-	.	.
 .	.	.	.	1d	-ra	.	.
 =3	=3	=3-	=3	=3	=3	=3	=3
-*	*	*LO:N:vis=1.	*	*	*	*	*
+!	!	!LO:N:vis=1.	!	!	!	!	!
 0.r	.	0.r	.	1.e-i	pax	1g	pax
 .	.	.	.	.	.	1r	.
 .	.	.	.	2d	.	.	.
@@ -47,7 +47,7 @@
 .	.	.	.	2e-i	.	.	.
 .	.	.	.	2d	.	[2f	.
 =5	=5	=5	=5	=5	=5	=5	=5
-*	*	*LO:N:vis=1.	*	*	*	*	*
+!	!	!LO:N:vis=1.	!	!	!	!	!
 0.r	.	0.r	.	1.B-	.	2f]	.
 .	.	.	.	.	.	2.b-	.
 .	.	.	.	.	.	4a	.
@@ -62,7 +62,7 @@
 .	.	.	.	4F	.	.	.
 .	.	.	.	4E	.	.	.
 =7	=7	=7-	=7	=7	=7	=7	=7
-*	*	*LO:N:vis=1.	*	*	*	*	*
+!	!	!LO:N:vis=1.	!	!	!	!	!
 0.r	.	0.r	.	1D	-ne	1f	-ne
 .	.	.	.	1r	.	1.g	vo-
 .	.	.	.	[1B-	vo-	.	.
@@ -78,7 +78,7 @@
 .	.	.	.	2F	.	2d	-ta-
 .	.	.	.	[2G	-ta-	[2B-	.
 =9	=9	=9	=9	=9	=9	=9	=9
-*	*	*LO:N:vis=1.	*	*	*	*	*
+!	!	!LO:N:vis=1.	!	!	!	!	!
 0.r	.	0.r	.	4G]	.	4B-]	.
 .	.	.	.	4F	.	4c	.
 .	.	.	.	2.B-	.	2d	.
@@ -91,7 +91,7 @@
 0.r	.	0.ryy	.	0G	-tis.	0.G	-tis.
 .	.	.	.	1r	.	.	.
 =11	=11	=11-	=11	=11	=11	=11	=11
-*	*	*LO:N:vis=1.	*	*	*	*	*
+!	!	!LO:N:vis=1.	!	!	!	!	!
 [0.G	Lau-	0.r	.	1G	Lau-	0.r	.
 .	.	.	.	1.B-	-da-	.	.
 .	.	.	.	2B-	-mus	.	.
@@ -525,7 +525,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-e-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*met(C|)	*	*met(C)	*	*met(C|)	*	*met(C|)	*
 *MM400	*	*MM400	*	*MM400	*	*MM400	*
 !!!OMD: Qui tollis
 !!section: Qui tollis
