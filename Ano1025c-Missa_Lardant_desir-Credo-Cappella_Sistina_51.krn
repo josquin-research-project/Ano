@@ -581,7 +581,7 @@
 1.A	ex	0r	.	2r	.	1A	.
 .	.	.	.	1c	vir-	.	.
 .	.	.	.	.	.	[1e	vir-
-!LO:TX:Z=12:t=MS&colon; a	!	!	!	!	!	!	!
+!LO:TX:X=-30:Z=12:t=MS&colon; a	!	!	!	!	!	!	!
 2G	Ma-	.	.	2B	.	.	.
 =91	=91	=91	=91	=91	=91	=91	=91
 1A	-ri-	0r	.	2c	.	1e]	.
@@ -1046,7 +1046,7 @@
 =202.	=202.	=202.	=202.	=202.	=202.	=202.	=202.
 2c]	.	0F]	.	2f]	.	1A]	.
 2B	.	.	.	2e	.	.	.
-!	!	!	!	!LO:TX:Z=18:t=MS&colon; c' lacking	!	!	!
+!	!	!	!	!LO:TX:X=-60:Z=18:t=MS&colon; c' lacking	!	!	!
 1A	in	.	.	2c	.	1A	in
 .	.	.	.	2d	.	.	.
 =203	=203	=203	=203	=203	=203	=203	=203
@@ -1337,7 +1337,7 @@
 1G	.	.	.	1D	.	.	.
 =276.	=276.	=276.	=276.	=276.	=276.	=276.	=276.
 *	*	*	*	*	*	*^	*
-[0A	.	[0AAl	-am,	[0E	.	[0al	[0c#l	-am.
+[0A	.	[0AAl	-am,	[0E	.	[0al/	[0c#l\	-am.
 =277.	=277.	=277.	=277.	=277.	=277.	=277.	=277.	=277.
 1A]	.	0AA_	.	0E]	.	0a_	0c#_yy	.
 2G	.	.	.	.	.	.	.	.
@@ -1629,4 +1629,4 @@
 !!!EED:	Jesse Rodin & Emily Zazulia
 !!!EEV:	2019/01/12/
 !!!ONB:	Translated from MusicXML and edited on 2019/01/12/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{SMS}, @{folio}\nEd. @{EED}^v90,90,90,130i2c93z18l2650
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{SMS}, @{folio}\nEd. @{EED}^v90,90,90,130i2c91z18l2650
