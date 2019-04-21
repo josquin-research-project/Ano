@@ -24,7 +24,7 @@
 !!section: Agnus dei I
 !!!OMD: Agnus dei I
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!	!	!LO:TX:X=-40:Z=18:t=T in twofold aug.; omits any note followed by a higher one	!	!	!	!	!
+!	!	!LO:TX:X=-40:Z=16:t=T in twofold aug.; omits any note followed by a higher one	!	!	!	!	!
 0.D	A-	0d	A-	0A	A-	[0.a	A-
 .	.	1f	-gnus	1d	.	.	.
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -268,7 +268,7 @@
 =36	=36	=36	=36	=36	=36	=36	=36
 1D]	.	0A	no-	4d]	.	4f]	.
 .	.	.	.	4e	.	4g	.
-!	!	!	!	!	!	!LO:TX:Z=12:t=MS&colon; 2 minims	!
+!	!	!	!	!	!	!LO:TX:Z=16:t=MS&colon; 2 minims	!
 .	.	.	.	2.f	.	2.a	.
 1AA	no-	.	.	.	.	.	.
 .	.	.	.	4e	.	4g	.
@@ -401,16 +401,16 @@
 0E	.	0G	.	1c	.	[0e	.
 .	.	.	.	1B	.	.	.
 =64	=64	=64	=64	=64	=64	=64	=64
-[0AA	-lis	0A	.	[0c	.	1e]	.
+[0AA	-lis	0A	.	[0c	-lis,	1e]	.
 .	.	.	.	.	.	[1e	tol-
 =65	=65	=65	=65	=65	=65	=65	=65
 0AA_	.	[0e	.	0c]	.	1e]	.
 .	.	.	.	.	.	1A	.
 =66	=66	=66	=66	=66	=66	=66	=66
-0AA_	.	0e]	.	[0c	.	[0A	.
+0AA_	.	0e]	.	[0c	qui	[0A	.
 =67	=67	=67	=67	=67	=67	=67	=67
 0AA_	.	[0E	.	1c]	.	0A]	.
-.	.	.	.	[1e	.	.	.
+.	.	.	.	[1e	tol-	.	.
 =68	=68	=68	=68	=68	=68	=68	=68
 0AA_	.	0E_	.	2e]	.	[0e	.
 .	.	.	.	2d	.	.	.
@@ -687,7 +687,7 @@
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 *MM400	*	*MM400	*	*MM400	*	*MM400	*
-!	!	!LO:TX:X=-40:Z=12:t=T replaces each note value by its opposite (e.g., minims become maximas)	!	!	!	!	!
+!	!	!LO:TX:X=-40:Z=16:t=T replaces each note value by its opposite (e.g., minims become maximas)	!	!	!	!	!
 !!section: Agnus dei III
 !!!OMD: Agnus dei III
 [0D	A-	0r	.	[0F	A-	[0d	A-
@@ -931,7 +931,7 @@
 .	.	.	.	2c#i	.	1e	.
 .	.	.	.	2B	.	.	.
 =193	=193	=193	=193	=193	=193	=193	=193
-1.F	mun-	0D	-di,	[0d	.	2A	.
+1.F	mun-	0D	-di,	[0d	-di,	2A	.
 .	.	.	.	.	.	1a	.
 4G	.	.	.	.	.	4g	.
 4A	.	.	.	.	.	4f	.
@@ -940,7 +940,7 @@
 4A	.	.	.	.	.	4f	.
 4G	.	.	.	.	.	4e	.
 4F	.	.	.	.	.	4d	.
-1E	.	.	.	1e	.	2.c#i	.
+1E	.	.	.	1e	mun-	2.c#i	.
 .	.	.	.	.	.	4B	.
 =195	=195	=195	=195	=195	=195	=195	=195
 [0D	-di,	1r	.	1f	.	1d	-di,
