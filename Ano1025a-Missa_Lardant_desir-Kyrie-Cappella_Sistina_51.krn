@@ -60,7 +60,7 @@
 .	.	.	.	.	.	4g	.
 .	.	1c	-ri-	.	.	2e	.
 .	.	.	.	.	.	1f	.
-[1A	-ri-	1d	-e	1D	.	.	.
+[1A	-ri-	1d	-e,	1D	.	.	.
 .	.	.	.	.	.	2d	.
 =8	=8	=8	=8	=8	=8	=8	=8
 1A]	.	1c	.	1r	.	1e	-son,
@@ -478,7 +478,7 @@
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
 !!section: Kyrie II
 !!!OMD: Kyrie II
-!	!	!LO:TX:Z=16:t=Twofold T statement (repeat sign)	!	!	!	!	!
+!	!	!LO:TX:Z=18:t=Twofold T statement (repeat sign)	!	!	!	!	!
 0.D	-Ky-	0.f	Ky-	0d	Ky-	[0.a	Ky-
 .	.	.	.	1d	-ri-	.	.
 =89	=89	=89	=89	=89	=89	=89	=89
@@ -634,7 +634,7 @@
 .	.	.	.	.	.	4c#i	.
 .	.	.	.	.	.	4B	.
 =112	=112	=112	=112	=112	=112	=112	=112
-!	!	!LO:TX:Z=12:X=-25:t=MS&colon; 2 longs	!	!	!	!	!
+!	!	!LO:TX:Z=12:X=-15:t=MS&colon; 2 longs	!	!	!	!	!
 0.Dl	-son.	0.Dl	-son.	0.Al	-son.	0.dl	-son.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
