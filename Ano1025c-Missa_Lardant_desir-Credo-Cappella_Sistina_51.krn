@@ -1046,7 +1046,7 @@
 =202.	=202.	=202.	=202.	=202.	=202.	=202.	=202.
 2c]	.	0F]	.	2f]	.	1A]	.
 2B	.	.	.	2e	.	.	.
-!	!	!	!	!LO:TX:X=-60:Z=18:t=MS&colon; c' lacking	!	!	!
+!	!	!	!	!LO:TX:X=-70:Z=18:t=MS&colon; c' lacking	!	!	!
 1A	in	.	.	2c	.	1A	in
 .	.	.	.	2d	.	.	.
 =203	=203	=203	=203	=203	=203	=203	=203
@@ -1357,7 +1357,7 @@
 *MM312	*	*MM312	*	*MM312	*	*MM312	*
 !!section: Confiteor
 !!!OMD: Confiteor
-!!LO:TX:Z=8:t=D, A, B&colon; Exceptional mensural complexity (mm. 280-94, here resolved); see Stoessel 2010
+!!LO:TX:X=-65:Z=8:t=D, A, B&colon; Exceptional mensural complexity (mm. 280-94, here resolved); see Stoessel 2010
 !	!	!LO:TX:Z=8:t=T in its presumably original form	!	!	!	!	!
 1AA	Con-	0r	.	0r	.	0r	.
 1C	-fi-	.	.	.	.	.	.
