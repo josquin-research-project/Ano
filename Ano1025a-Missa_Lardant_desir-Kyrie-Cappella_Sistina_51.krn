@@ -24,7 +24,7 @@
 !!section: Kyrie I
 !!!OMD: Kyrie I
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!	!	!LO:TX:X=-40:Z=8:t=MS preserves resolutions only; this ed. based on inferred ``original'' notation	!	!	!	!	!
+!	!	!LO:TX:X=-40:Z=8:t=MS preserves resolutions only; this edition based on inferred ``original'' notation	!	!	!	!	!
 0.r	.	0.r	.	0.A	Ky-	[0.a	Ky-
 =2	=2	=2	=2	=2	=2	=2	=2
 0.r	.	0.r	.	0.c	-ri-	1a]	.
@@ -58,13 +58,13 @@
 =7	=7	=7	=7	=7	=7	=7	=7
 0AA	Ky-	1A	Ky-	0A	-son,	2.a	.
 .	.	.	.	.	.	4g	.
-.	.	1c	.	.	.	2e	.
+.	.	1c	-ri-	.	.	2e	.
 .	.	.	.	.	.	1f	.
-[1A	-ri-	1d	.	1D	.	.	.
+[1A	-ri-	1d	-e	1D	.	.	.
 .	.	.	.	.	.	2d	.
 =8	=8	=8	=8	=8	=8	=8	=8
-1A]	.	1c	-ri-	1r	.	1e	-son,
-1D	-e,	2d	-e,	2.A	ky-	1d	.
+1A]	.	1c	.	1r	.	1e	-son,
+1D	-e,	2d	.	2.A	ky-	1d	.
 .	.	2f	.	.	.	.	.
 .	.	.	.	4B	.	.	.
 2C	ky-	2e	.	2c	.	1r	.
@@ -96,7 +96,7 @@
 .	.	.	.	.	.	4f	.
 .	.	.	.	[1A	.	1e	.
 =13	=13	=13	=13	=13	=13	=13	=13
-2.d	.	0.D	.	1A]	.	2d	.
+2.d	.	0.D	-son,	1A]	.	2d	.
 .	.	.	.	.	.	1f	.
 4c	.	.	.	.	.	.	.
 2B	.	.	.	2.d	.	.	.
@@ -107,10 +107,10 @@
 [2F	.	.	.	[2A	.	4c	.
 .	.	.	.	.	.	4B	.
 =14	=14	=14	=14	=14	=14	=14	=14
-4F]	.	1d	.	4A]	.	1.A	.
+4F]	.	1d	e-	4A]	.	1.A	.
 4E	.	.	.	4G	.	.	.
 2D	.	.	.	2F	.	.	.
-2C	.	0e	.	2E	.	.	.
+2C	.	0e	-lei-	2E	.	.	.
 2BB	.	.	.	2D	.	2B	.
 1AA	-son,	.	.	1E	.	1c#i	.
 =15	=15	=15	=15	=15	=15	=15	=15
@@ -478,7 +478,7 @@
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
 !!section: Kyrie II
 !!!OMD: Kyrie II
-!	!	!LO:TX:Z=20:t=Twofold T statement (repeat sign)	!	!	!	!	!
+!	!	!LO:TX:Z=16:t=Twofold T statement (repeat sign)	!	!	!	!	!
 0.D	-Ky-	0.f	Ky-	0d	Ky-	[0.a	Ky-
 .	.	.	.	1d	-ri-	.	.
 =89	=89	=89	=89	=89	=89	=89	=89
@@ -634,7 +634,7 @@
 .	.	.	.	.	.	4c#i	.
 .	.	.	.	.	.	4B	.
 =112	=112	=112	=112	=112	=112	=112	=112
-!	!	!LO:TX:Z=12:X=-40:t=MS&colon; 2 longs	!	!	!	!	!
+!	!	!LO:TX:Z=12:X=-25:t=MS&colon; 2 longs	!	!	!	!	!
 0.Dl	-son.	0.Dl	-son.	0.Al	-son.	0.dl	-son.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
