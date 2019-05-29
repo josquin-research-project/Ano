@@ -24,7 +24,7 @@
 !!section: Agnus dei I
 !!!OMD: Agnus dei I
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!	!	!LO:TX:X=-40:Z=16:t=T in twofold aug.; omits rests any note followed by a higher note	!	!	!	!	!
+!	!	!LO:TX:X=-40:Z=16:t=T in twofold aug.; omits rests and any note followed by a higher note	!	!	!	!	!
 0.D	A-	0d	A-	0A	A-	[0.a	A-
 .	.	1f	-gnus	1d	.	.	.
 =2	=2	=2	=2	=2	=2	=2	=2
