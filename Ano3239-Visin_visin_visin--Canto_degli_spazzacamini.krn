@@ -17,7 +17,7 @@
 *met(C.)	*	*	*	*	*	*met(C.)	*	*	*	*	*	*met(C.)	*	*	*	*	*	*met(C.)	*	*	*	*	*
 2r	.	.	.	.	.	2r	.	.	.	.	.	2r	.	.	.	.	.	2r	.	.	.	.	.
 2r	.	.	.	.	.	2r	.	.	.	.	.	2r	.	.	.	.	.	2r	.	.	.	.	.
-2G	Vi-	.	.	.	.	2d	Vi-	.	.	.	.	2g	Vi-	.	.	.	.	2g	Vi-	.	.	.	.
+2G	Vi-	&	&	&	&	2d	Vi-	&	&	&	&	2g	Vi-	&	&	&	&	2g	Vi-	&	&	&	&
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 1D	-sin,	.	.	.	.	1d	-sin,	.	.	.	.	1f	-sin,	.	.	.	.	1a	-sin,	.	.	.	.
 2E	vi-	.	.	.	.	2B	vi-	.	.	.	.	2e	vi-	.	.	.	.	2g	vi-	.	.	.	.
@@ -113,4 +113,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2019/12/10/
 !!!ONB:	Translated from MusicXML and edited on 2019/12/10/ by Craig Sapp
-!!muse2ps: C^@{COM}, text by Feo Belcari (1410--84)\n@{SMS}^v85,85,85,150Q16
+!!muse2ps: C^@{COM}, text by Feo Belcari (1410--84)\n@{SMS}^v85,85,85,150z18l2500t200
