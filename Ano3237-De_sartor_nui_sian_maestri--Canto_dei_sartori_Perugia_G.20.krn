@@ -1,11 +1,11 @@
-!!!COM:	Anonymous
-!!!OTL:	De sartor nui sian maestri
-!!!AGN:	Song; Carnival song
-!!!SCT:	Ano3237
-!!!SCA:	Ano3237
-!!!SMS:	Canto dei sartori (Perugia G.20)
-!!!folio:	
-!!!voices:	4
+!!!COM: Anonymous
+!!!OTL: De sartor nui sian maestri
+!!!AGN: Song; Carnival song
+!!!SCT: Ano3237
+!!!SCA: Ano3237
+!!!SMS: Canto dei sartori (Perugia G.20)
+!!!folio:
+!!!voices: 4
 **kern	**text	**text	**text	**text	**text	**text	**kern	**text	**text	**text	**text	**text	**text	**kern	**text	**text	**text	**text	**text	**text	**kern	**text	**text	**text	**text	**text	**text
 *staff4	*staff4	*staff4	*staff4	*staff4	*staff4	*staff4	*staff3	*staff3	*staff3	*staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1	*staff1	*staff1	*staff1
 *Ivox	*	*	*	*	*	*	*Ivox	*	*	*	*	*	*	*Ivox	*	*	*	*	*	*	*Ivox	*	*	*	*	*	*
@@ -20,11 +20,11 @@
 1G	sar-	ta-	-do el	pre-	don-	-sta	1g	sar-	ta-	-do el	pre-	don-	-sta	1d	sar-	ta-	-do el	pre-	don-	-sta	1g	sar-	ta-	-do el	pre-	don-	-sta
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 1D	-tor	-gliar	pan-	-ga-	-zel-	so-	1f	-tor	-gliar	pan-	-ga-	-zel-	so-	1d	-tor	-gliar	pan-	-ga-	-zel-	so-	1a	-tor	-gliar	pan-	-ga-	-zel-	so-
-1G	nui	in	-no non	-mo	-le et	-lo a-	1d	nui	in	-no non	-mo	-le et	-lo a-	2r	.	.	.	.	.	.	1b	nui	in	-no non	-mo	-le et	-lo a-
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	2g	nui	in	-no non	-mo	-le et	-lo a-	.	.	.	.	.	.	.
+1G	nui	in	-no	-mo	-le et	-lo a-	1d	nui	in	-no	-mo	-le et	-lo a-	2r	.	.	.	.	.	.	1b	nui	in	-no	-mo	-le et	-lo a-
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	2g	nui	in	-no	-mo	-le et	-lo a-	.	.	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-1C	sian	pun-	e	dui o	per	-ver	1e	sian	pun-	e	dui o	per	-ver	1g	sian	pun-	e	dui o	per	-ver	1cc	sian	pun-	e	dui o	per	-ver
-1D	ma-	-to et	as-	tre	gar-	ve-	1f	ma-	-to et	as-	tre	gar-	ve-	1d	ma-	-to et	as-	tre	gar-	ve-	1a	ma-	-to et	as-	tre	gar-	ve-
+1C	sian	pun-	non	dui o	per	-ver	1e	sian	pun-	non	dui o	per	-ver	1g	sian	pun-	non	dui o	per	-ver	1cc	sian	pun-	non	dui o	per	-ver
+1D	ma-	-to et	e as-	tre	gar-	ve-	1f	ma-	-to et	e as-	tre	gar-	ve-	1d	ma-	-to et	e as-	tre	gar-	ve-	1a	ma-	-to et	e as-	tre	gar-	ve-
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 1G	-e-	be-	-su-	vol-	-zo-	-du-	1g	-e-	be-	-su-	vol-	-zo-	-du-	1d	-e-	be-	-su-	vol-	-zo-	-du-	1b	-e-	be-	-su-	vol-	-zo-	-du-
 1G	-stri,	-ne,	-cto,	-te,	-ni	-to	1g	-stri,	-ne,	-cto,	-te,	-ni	-to	1d	-stri,	-ne,	-cto,	-te,	-ni	-to	1b	-stri,	-ne,	-cto,	-te,	-ni	-to
@@ -37,20 +37,20 @@
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 1D	sian	ma-	ben	-pra	-ne	vi	1f	sian	ma-	ben	-pra	-ne	vi	1a	sian	ma-	ben	-pra	-ne	vi	1dd	sian	ma-	ben	-pra	-ne	vi
 2A	pron-	.	ta-	quel	ru-	po in-	2e	pron-	.	ta-	quel	ru-	po in-	1a	pron-	-no	ta-	quel	ru-	po in-	2cc	pron-	.	ta-	quel	ru-	po in-
-2D	.	.	.	.	.	-tra-	2f	.	.	.	.	.	-tra-	.	.	.	.	.	.	.	[2dd	.	.	-glia-	pan-	-bec-	-tra-
+2D	.	.	.	.	.	.	2f	.	.	.	.	.	.	.	.	.	.	.	.	.	[2dd	-ti et	.	-glia-	pan-	-bec-	-tra-
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
-1G	.	.	-glia-	pan-	-bec-	.	2.g	.	.	-glia-	pan-	-bec-	.	1d	.	.	-glia-	pan-	-bec-	-tra-	4dd]	.	.	.	.	.	.
+1G	.	.	-glia-	pan-	-bec-	-tra-	2.g	-ti et	.	-glia-	pan-	-bec-	-tra-	1d	-ti et	pi-	-glia-	pan-	-bec-	-tra-	4dd]	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4cc	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4b	.	.	.	.	.	.
 .	.	.	.	.	.	.	4f	.	.	.	.	.	.	.	.	.	.	.	.	.	4a	.	.	.	.	.	.
-2C	-ti et	-no	.	.	.	.	4e	-ti et	-no	.	.	.	.	2e	-ti et	pi-	.	.	.	.	2g	-ti et	-no	.	.	.	.
+2C	-ti et	-no	.	.	.	.	4e	.	.	.	.	.	.	2e	de-	.	.	.	.	.	2g	.	-no	.	.	.	.
 .	.	.	.	.	.	.	4d	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-[2F	de-	pi-	.	.	.	.	[2c	de-	pi-	.	.	.	.	[2f	de-	-glia-	.	.	.	.	[2a	de-	pi-	.	.	.	.
+[2F	de-	pi-	.	.	.	.	[2c	de-	-no	.	.	.	.	[2f	.	-glia-	.	.	.	.	[2a	de-	pi-	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 2F]	.	.	.	.	.	.	2c]	.	.	.	.	.	.	2f]	.	.	.	.	.	.	4a]	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4g	.	.	.	.	.	.
-2C	.	-glia-	.	.	.	.	2e	.	-glia-	.	.	.	.	2g	.	.	.	.	.	.	1cc	.	-glia-	.	.	.	.
-1G	.	.	.	.	.	.	1d	.	.	.	.	.	.	1g	.	.	.	.	.	.	.	.	.	.	.	.	.
+2C	.	.	.	.	.	.	2e	.	pi-	.	.	.	.	2g	.	.	.	.	.	.	1cc	.	-glia-	.	.	.	.
+1G	.	-glia-	.	.	.	.	1d	.	-glia-	.	.	.	.	1g	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	2b	.	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 0C	-stri.	-mo;	-re;	-no	-ta;	-re	0c	-stri.	-mo;	-re;	-no	-ta;	-re	0g	-stri.	-mo;	-re;	-no	-ta;	-re	0cc	-stri.	-mo;	-re;	-no	-ta;	-re
@@ -144,9 +144,9 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin 6 Dec 2019
-!!!END:	2019/12/08/
-!!!EED:	Jesse Rodin
-!!!EEV:	2019/12/10/
-!!!ONB:	Translated from MusicXML and edited on 2019/12/10/ by Craig Sapp
+!!!ENC: Jesse Rodin 6 Dec 2019
+!!!END: 2019/12/08/
+!!!EED: Jesse Rodin
+!!!EEV: 2019/12/10/
+!!!ONB: Translated from MusicXML and edited on 2019/12/10/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SMS}^v200,200,200,105z18l2400t300c80I100
