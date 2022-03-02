@@ -1,12 +1,12 @@
-!!!COM:	Anonymous
-!!!OTL:	A ceste derraine venue
-!!!AGN:	Song; Chanson; Virelai
-!!!SCT:	Ano3097
-!!!SCA:	Ano3097
-!!!SMS:	Dijon Chansonnier
-!!!folio:	39v-41r
-!!!SMS2:	BQ16
-!!!voices:	2
+!!!COM: Anonymous
+!!!OTL: A ceste derraine venue
+!!!AGN: Song; Chanson; Virelai
+!!!SCT: Ano3097
+!!!SCA: Ano3097
+!!!SMS: Dijon Chansonnier
+!!!folio: 39v-41r
+!!!SMS2: BQ16
+!!!voices: 2
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -298,9 +298,9 @@
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: N=signum congruentiae
-!!!ENC:	Chris Gage 08-12-2016
-!!!END:	2018/09/27/
-!!!EED:	Jesse Rodin
-!!!EEV:	2018/11/29/
-!!!ONB:	Translated from MusicXML and edited on 2018/11/29/ by Craig Sapp
+!!!ENC: Chris Gage 08-12-2016
+!!!END: 2018/09/27/
+!!!EED: Jesse Rodin
+!!!EEV: 2018/11/29/
+!!!ONB: Translated from MusicXML and edited on 2018/11/29/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SMS}, @{folio}; also @{SMS2}^i2v85,85,150Q8c170

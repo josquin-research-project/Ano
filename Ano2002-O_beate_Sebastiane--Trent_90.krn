@@ -1,11 +1,11 @@
-!!!COM:	Anonymous
-!!!OTL:	O beate Sebastiane
-!!!AGN:	Motet
-!!!SCT:	Ano2002
-!!!SCA:	Ano2002
-!!!SMS:	Trent 90
-!!!folio:	364v
-!!!voices:	3
+!!!COM: Anonymous
+!!!OTL: O beate Sebastiane
+!!!AGN: Motet
+!!!SCT: Ano2002
+!!!SCA: Ano2002
+!!!SMS: Trent 90
+!!!folio: 364v
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -245,9 +245,9 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin 8/14/2013
-!!!END:	2013/08/14/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/08/14/
-!!!ONB:	Translated from MusicXML and edited on 2013/08/14/ by Craig Sapp
+!!!ENC: Jesse Rodin 8/14/2013
+!!!END: 2013/08/14/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/08/14/
+!!!ONB: Translated from MusicXML and edited on 2013/08/14/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SMS}, @{folio}^i2I150v110,110,150Q16

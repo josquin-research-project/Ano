@@ -1,12 +1,12 @@
-!!!COM:	Anonymous
-!!!OTL:	Par Dieu ma dame c'est a tort
-!!!AGN:	Song; Chanson; Virelai
-!!!SCT:	Ano3120
-!!!SCA:	Ano3120
-!!!SMS:	Dijon Chansonnier
-!!!folio:	125v-127r
-!!!SMS2:	Nivelles
-!!!voices:	3
+!!!COM: Anonymous
+!!!OTL: Par Dieu ma dame c'est a tort
+!!!AGN: Song; Chanson; Virelai
+!!!SCT: Ano3120
+!!!SCA: Ano3120
+!!!SMS: Dijon Chansonnier
+!!!folio: 125v-127r
+!!!SMS2: Nivelles
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -348,9 +348,9 @@
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: N=signum congruentiae
-!!!ENC:	Chris Gage 10-11-2016
-!!!END:	2018/12/03/
-!!!EED:	Jesse Rodin
-!!!EEV:	2018/12/07/
-!!!ONB:	Translated from MusicXML and edited on 2018/12/07/ by Craig Sapp
+!!!ENC: Chris Gage 10-11-2016
+!!!END: 2018/12/03/
+!!!EED: Jesse Rodin
+!!!EEV: 2018/12/07/
+!!!ONB: Translated from MusicXML and edited on 2018/12/07/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SMS}, @{folio}; also @{SMS2}^v95,95,150i2c90

@@ -1,11 +1,11 @@
-!!!COM:	Anonymous
-!!!OTL:	S'il vous plaist bien que je vous tiegne
-!!!AGN:	Song; Chanson; Virelai
-!!!SCT:	Ano3093, Bus3078
-!!!SCA:	Ano3093, Bus3078
-!!!SMS1:	Dijon Chansonnier
-!!!SMS2:	Nivelle Chansonnier
-!!!voices:	3
+!!!COM: Anonymous
+!!!OTL: S'il vous plaist bien que je vous tiegne
+!!!AGN: Song; Chanson; Virelai
+!!!SCT: Ano3093, Bus3078
+!!!SCA: Ano3093, Bus3078
+!!!SMS1: Dijon Chansonnier
+!!!SMS2: Nivelle Chansonnier
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -323,10 +323,10 @@
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
 !!!RDF**kern: N=signum congruentiae
-!!!ENC:	Chris Gage 06-29-2015
-!!!END:	2016/04/16/
-!!!EED:	Jesse Rodin
-!!!EEV:	2016/06/01/
-!!!ONB:	Translated from MusicXML and edited on 2016/06/01/ by Craig Sapp
+!!!ENC: Chris Gage 06-29-2015
+!!!END: 2016/04/16/
+!!!EED: Jesse Rodin
+!!!EEV: 2016/06/01/
+!!!ONB: Translated from MusicXML and edited on 2016/06/01/ by Craig Sapp
 !!muse2ps: C^@{COM}\nSources: @{SMS1}; @{SMS2}^v115,115,150Q16c80
 !!attribution-level@Bus: 4 (questionable)

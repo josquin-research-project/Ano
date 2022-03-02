@@ -1,11 +1,11 @@
-!!!COM:	Anonymous
-!!!OTL:	Da pacem domine III
-!!!AGN:	Motet
-!!!SCT:	Ano2006
-!!!SCA:	Ano2006
-!!!SMS:	Cappella Sistina 15
-!!!folio:	268v-269r
-!!!voices:	4
+!!!COM: Anonymous
+!!!OTL: Da pacem domine III
+!!!AGN: Motet
+!!!SCT: Ano2006
+!!!SCA: Ano2006
+!!!SMS: Cappella Sistina 15
+!!!folio: 268v-269r
+!!!voices: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -310,9 +310,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Jesse Rodin 8/15/2013
-!!!END:	2013/08/15/
-!!!EED:	Jesse Rodin
-!!!EEV:	2016/02/22/
-!!!ONB:	Translated from MusicXML and edited on 2016/02/22/ by Craig Sapp
+!!!ENC: Jesse Rodin 8/15/2013
+!!!END: 2013/08/15/
+!!!EED: Jesse Rodin
+!!!EEV: 2016/02/22/
+!!!ONB: Translated from MusicXML and edited on 2016/02/22/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SMS}, @{folio}^v85,85,85,150Q16

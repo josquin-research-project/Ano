@@ -1,11 +1,11 @@
-!!!COM:	Anonymous
-!!!OTL:	Las, quel plaisir / Or y vient / La mousque
-!!!AGN:	Song; Chanson
-!!!SCT:	Ano3025
-!!!SCA:	Ano3025
-!!!SMS:	Escorial B
-!!!folio:	
-!!!voices:	3
+!!!COM: Anonymous
+!!!OTL: Las, quel plaisir / Or y vient / La mousque
+!!!AGN: Song; Chanson
+!!!SCT: Ano3025
+!!!SCA: Ano3025
+!!!SMS: Escorial B
+!!!folio:
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -216,9 +216,9 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 03-05-2015
-!!!END:	2015/03/14/
-!!!EED:	Jesse Rodin
-!!!EEV:	2016/02/22/
-!!!ONB:	Translated from MusicXML and edited on 2016/02/22/ by Craig Sapp
+!!!ENC: Chris Gage 03-05-2015
+!!!END: 2015/03/14/
+!!!EED: Jesse Rodin
+!!!EEV: 2016/02/22/
+!!!ONB: Translated from MusicXML and edited on 2016/02/22/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SMS} @{folio}^v95,95,150Q16

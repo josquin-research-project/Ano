@@ -1,14 +1,14 @@
-!!!COM:	Anonymous
-!!!OPR:	Missa L'ardant desir
-!!!ONM:	5
-!!!OTL:	Agnus Dei
-!!!AGN:	Mass; Agnus Dei
-!!!SCT:	Ano1025e
-!!!SCA:	Ano1025e
-!!!SMS:	Capella Sistina 51
-!!!folio-OPR:	90v-104r
-!!!folio:	
-!!!voices:	4
+!!!COM: Anonymous
+!!!OPR: Missa L'ardant desir
+!!!ONM: 5
+!!!OTL: Agnus Dei
+!!!AGN: Mass; Agnus Dei
+!!!SCT: Ano1025e
+!!!SCA: Ano1025e
+!!!SMS: Capella Sistina 51
+!!!folio-OPR: 90v-104r
+!!!folio:
+!!!voices: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -1095,9 +1095,9 @@
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin & Emily Zazulia
-!!!END:	2019/01/10/
-!!!EED:	Jesse Rodin & Emily Zazulia
-!!!EEV:	2019/01/12/
-!!!ONB:	Translated from MusicXML and edited on 2019/01/12/ by Craig Sapp
+!!!ENC: Jesse Rodin & Emily Zazulia
+!!!END: 2019/01/10/
+!!!EED: Jesse Rodin & Emily Zazulia
+!!!EEV: 2019/01/12/
+!!!ONB: Translated from MusicXML and edited on 2019/01/12/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{SMS}, @{folio-OPR}\nEd. @{EED}^v90,90,90,130i2c110z18l2650

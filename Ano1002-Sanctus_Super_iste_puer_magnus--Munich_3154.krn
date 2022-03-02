@@ -1,11 +1,11 @@
-!!!COM:	Anonymous
-!!!OTL:	Sanctus Super iste puer magnus
-!!!AGN:	Mass section; Sanctus
-!!!SCT:	Ano1002
-!!!SCA:	Ano1002
-!!!SMS:	Munich 3154
-!!!folio:	137v-141r
-!!!voices:	4
+!!!COM: Anonymous
+!!!OTL: Sanctus Super iste puer magnus
+!!!AGN: Mass section; Sanctus
+!!!SCT: Ano1002
+!!!SCA: Ano1002
+!!!SMS: Munich 3154
+!!!folio: 137v-141r
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -1791,9 +1791,9 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin 8/14/2013
-!!!END:	2013/08/14/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/12/30/
-!!!ONB:	Translated from MusicXML and edited on 2013/08/14/ by Craig Sapp
+!!!ENC: Jesse Rodin 8/14/2013
+!!!END: 2013/08/14/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/12/30/
+!!!ONB: Translated from MusicXML and edited on 2013/08/14/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SMS}, @{folio}^85,85,85,100Q16

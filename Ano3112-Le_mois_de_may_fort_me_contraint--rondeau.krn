@@ -1,12 +1,12 @@
-!!!COM:	Anonymous
-!!!OTL:	Le mois de may fort me contraint
-!!!AGN:	Song; Chanson; Rondeau
-!!!SCT:	Ano3112
-!!!SCA:	Ano3112
-!!!SMS:	Dijon Chansonnier
-!!!folio:	26v-27r
-!!!SMS2:	F176
-!!!voices:	3
+!!!COM: Anonymous
+!!!OTL: Le mois de may fort me contraint
+!!!AGN: Song; Chanson; Rondeau
+!!!SCT: Ano3112
+!!!SCA: Ano3112
+!!!SMS: Dijon Chansonnier
+!!!folio: 26v-27r
+!!!SMS2: F176
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -230,9 +230,9 @@
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: N=signum congruentiae
-!!!ENC:	Chris Gage 08-12-2016
-!!!END:	2018/09/28/
-!!!EED:	Jesse Rodin
-!!!EEV:	2018/11/29/
-!!!ONB:	Translated from MusicXML and edited on 2018/11/29/ by Craig Sapp
+!!!ENC: Chris Gage 08-12-2016
+!!!END: 2018/09/28/
+!!!EED: Jesse Rodin
+!!!EEV: 2018/11/29/
+!!!ONB: Translated from MusicXML and edited on 2018/11/29/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SMS}, @{folio}; also @{SMS2}^v95,95,150c160

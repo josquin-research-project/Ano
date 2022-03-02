@@ -1,13 +1,13 @@
-!!!COM:	Anonymous
-!!!OTL:	Ravy d'amours despourveu de bon sens
-!!!AGN:	Song; Chanson; Rondeau
-!!!SCT:	Ano3123
-!!!SCA:	Ano3123
-!!!SMS:	Dijon Chansonnier
-!!!folio:	132v-133r
-!!!SMS2:	Wolf
-!!!SMS3:	Per1013
-!!!voices:	3
+!!!COM: Anonymous
+!!!OTL: Ravy d'amours despourveu de bon sens
+!!!AGN: Song; Chanson; Rondeau
+!!!SCT: Ano3123
+!!!SCA: Ano3123
+!!!SMS: Dijon Chansonnier
+!!!folio: 132v-133r
+!!!SMS2: Wolf
+!!!SMS3: Per1013
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -217,9 +217,9 @@
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: N=signum congruentiae
-!!!ENC:	Chris Gage 09-28-2016
-!!!END:	2018/09/27/
-!!!EED:	Jesse Rodin
-!!!EEV:	2018/11/29/
-!!!ONB:	Translated from MusicXML and edited on 2018/11/29/ by Craig Sapp
+!!!ENC: Chris Gage 09-28-2016
+!!!END: 2018/09/27/
+!!!EED: Jesse Rodin
+!!!EEV: 2018/11/29/
+!!!ONB: Translated from MusicXML and edited on 2018/11/29/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SMS}, @{folio}; also @{SMS2}, @{SMS3}^v95,95,150c170

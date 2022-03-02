@@ -1,11 +1,11 @@
-!!!COM:	Anonymous
-!!!OTL:	&Agrave; cheval
-!!!AGN:	Song; Chanson; Rondeau
-!!!SCT:	Ano3003
-!!!SCA:	Ano3003
-!!!SMS:	Escorial B
-!!!folio:	63v-64r
-!!!voices:	3
+!!!COM: Anonymous
+!!!OTL: &Agrave; cheval
+!!!AGN: Song; Chanson; Rondeau
+!!!SCT: Ano3003
+!!!SCA: Ano3003
+!!!SMS: Escorial B
+!!!folio: 63v-64r
+!!!voices: 3
 !!!ONB: As a reminder, rondeaux are in the form ABaAabAB	!	!	!
 **kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
 *staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
@@ -203,9 +203,9 @@
 !!verse4d@ENG:	Serve the king with loyal hearts.
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin 8/14/2013
-!!!END:	2013/08/14/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/08/14/
-!!!ONB:	Translated from MusicXML and edited on 2013/08/14/ by Craig Sapp
+!!!ENC: Jesse Rodin 8/14/2013
+!!!END: 2013/08/14/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/08/14/
+!!!ONB: Translated from MusicXML and edited on 2013/08/14/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SMS}, @{folio}^v125,125,130Q16l2500t200

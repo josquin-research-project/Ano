@@ -1,11 +1,11 @@
-!!!COM:	Anonymous
-!!!OTL:	Visin visin visin
-!!!AGN:	Motet
-!!!SCT:	Ano3239
-!!!SCA:	Ano3239
-!!!SMS:	Canto degli spazzacamini
-!!!folio:	
-!!!voices:	4
+!!!COM: Anonymous
+!!!OTL: Visin visin visin
+!!!AGN: Motet
+!!!SCT: Ano3239
+!!!SCA: Ano3239
+!!!SMS: Canto degli spazzacamini
+!!!folio:
+!!!voices: 4
 **kern	**text	**text	**text	**text	**text	**kern	**text	**text	**text	**text	**text	**kern	**text	**text	**text	**text	**text	**kern	**text	**text	**text	**text	**text
 *staff4	*staff4	*staff4	*staff4	*staff4	*staff4	*staff3	*staff3	*staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1	*staff1	*staff1
 *Ivox	*	*	*	*	*	*Ivox	*	*	*	*	*	*Ivox	*	*	*	*	*	*Ivox	*	*	*	*	*
@@ -108,9 +108,9 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin
-!!!END:	2019/12/08/
-!!!EED:	Jesse Rodin
-!!!EEV:	2019/12/10/
-!!!ONB:	Translated from MusicXML and edited on 2019/12/10/ by Craig Sapp
+!!!ENC: Jesse Rodin
+!!!END: 2019/12/08/
+!!!EED: Jesse Rodin
+!!!EEV: 2019/12/10/
+!!!ONB: Translated from MusicXML and edited on 2019/12/10/ by Craig Sapp
 !!muse2ps: C^@{COM}, text by Feo Belcari (1410--84)\n@{SMS}^v140,140,140,150z18l2300t500

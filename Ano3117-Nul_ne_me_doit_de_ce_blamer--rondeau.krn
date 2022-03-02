@@ -1,12 +1,12 @@
-!!!COM:	Anonymous
-!!!OTL:	Nul ne me doit de ce blamer
-!!!AGN:	Song; Chanson; Rondeau
-!!!SCT:	Ano3117
-!!!SCA:	Ano3117
-!!!SMS:	Dijon Chansonnier
-!!!folio:	142v-143r
-!!!SMS2:	BQ16
-!!!voices:	3
+!!!COM: Anonymous
+!!!OTL: Nul ne me doit de ce blamer
+!!!AGN: Song; Chanson; Rondeau
+!!!SCT: Ano3117
+!!!SCA: Ano3117
+!!!SMS: Dijon Chansonnier
+!!!folio: 142v-143r
+!!!SMS2: BQ16
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -216,9 +216,9 @@
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: N=signum congruentiae
-!!!ENC:	Chris Gage 09-28-2016
-!!!END:	2018/10/04
-!!!EED:	Jesse Rodin
-!!!EEV:	2018/11/29
-!!!ONB:	Translated from MusicXML and edited on 2018/11/29 by Craig Sapp
+!!!ENC: Chris Gage 09-28-2016
+!!!END: 2018/10/04
+!!!EED: Jesse Rodin
+!!!EEV: 2018/11/29
+!!!ONB: Translated from MusicXML and edited on 2018/11/29 by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SMS}, @{folio}; also @{SMS2}^v95,95,150c170

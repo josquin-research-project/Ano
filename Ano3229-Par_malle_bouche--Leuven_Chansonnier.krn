@@ -1,11 +1,11 @@
-!!!COM:	Anonymous
-!!!OTL:	Par malle bouche
-!!!AGN:	Song; Chanson
-!!!SCT:	Ano3229
-!!!SCA:	Ano3229
-!!!SMS:	Leuven Chansonnier
-!!!folio:	50v-51r
-!!!voices:	3
+!!!COM: Anonymous
+!!!OTL: Par malle bouche
+!!!AGN: Song; Chanson
+!!!SCT: Ano3229
+!!!SCA: Ano3229
+!!!SMS: Leuven Chansonnier
+!!!folio: 50v-51r
+!!!voices: 3
 !!!ONB: Contra, m. 21/2: a
 **kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
 *staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
@@ -195,11 +195,11 @@
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: V = start of tuplet marker
 !!!RDF**kern: Z = end of tuplet marker
-!!!ENC:	Jesse Rodin
-!!!END:	2018/06/14
-!!!EED:	Jesse Rodin
-!!!EED2:	David Burn
-!!!EED3:	Fabrice Fitch
-!!!EEV:	2018/07/29
-!!!ONB:	Translated from MusicXML and edited on 2018/07/29/ by Craig Sapp
+!!!ENC: Jesse Rodin
+!!!END: 2018/06/14
+!!!EED: Jesse Rodin
+!!!EED2: David Burn
+!!!EED3: Fabrice Fitch
+!!!EEV: 2018/07/29
+!!!ONB: Translated from MusicXML and edited on 2018/07/29/ by Craig Sapp
 !!muse2ps: C^@{SMS} (@{folio})\nEd. @{EED}, with help from @{EED2} and @{EED3}^v95,95,150Q16z18l2600c80

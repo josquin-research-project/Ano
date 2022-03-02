@@ -1,12 +1,12 @@
-!!!COM:	Anonymous
-!!!OTL:	O infame desleaute
-!!!AGN:	Song; Chanson; Rondeau
-!!!SCT:	Ano3118
-!!!SCA:	Ano3118
-!!!SMS:	Dijon Chansonnier
-!!!folio:	151v-152r
+!!!COM: Anonymous
+!!!OTL: O infame desleaute
+!!!AGN: Song; Chanson; Rondeau
+!!!SCT: Ano3118
+!!!SCA: Ano3118
+!!!SMS: Dijon Chansonnier
+!!!folio: 151v-152r
 !!!SMS2: Wolf
-!!!voices:	3
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -260,9 +260,9 @@
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: N=signum congruentiae
-!!!ENC:	Chris Gage 10-04-2016
-!!!END:	2018/11/29/
-!!!EED:	Jesse Rodin
-!!!EEV:	2018/12/07/
-!!!ONB:	Translated from MusicXML and edited on 2018/12/07/ by Craig Sapp
+!!!ENC: Chris Gage 10-04-2016
+!!!END: 2018/11/29/
+!!!EED: Jesse Rodin
+!!!EEV: 2018/12/07/
+!!!ONB: Translated from MusicXML and edited on 2018/12/07/ by Craig Sapp
 !!muse2ps: C^@{COM}\nDijon Chansonnier, @{folio}; also @{SMS2}^v95,95,150c140

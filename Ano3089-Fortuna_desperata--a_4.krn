@@ -1,11 +1,11 @@
-!!!COM:	Anonymous
-!!!OTL:	Fortuna desperata (&agrave; 4)
-!!!AGN:	Song; Chanson
-!!!SCT:	Ano3089
-!!!SCA:	Ano3089
+!!!COM: Anonymous
+!!!OTL: Fortuna desperata (&agrave; 4)
+!!!AGN: Song; Chanson
+!!!SCT: Ano3089
+!!!SCA: Ano3089
 !!!SMS:
-!!!folio:	
-!!!voices:	4
+!!!folio:
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -221,9 +221,9 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 04-24-2015
-!!!END:	2016/02/15/
-!!!EED:	Jesse Rodin
-!!!EEV:	2016/02/23/
-!!!ONB:	Translated from MusicXML and edited on 2016/02/23/ by Craig Sapp
+!!!ENC: Chris Gage 04-24-2015
+!!!END: 2016/02/15/
+!!!EED: Jesse Rodin
+!!!EEV: 2016/02/23/
+!!!ONB: Translated from MusicXML and edited on 2016/02/23/ by Craig Sapp
 !!muse2ps: C^@{COM}^v85,85,85,150Q16

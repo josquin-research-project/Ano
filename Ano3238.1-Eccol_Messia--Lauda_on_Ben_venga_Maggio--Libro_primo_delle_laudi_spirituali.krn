@@ -1,11 +1,11 @@
-!!!COM:	Anonymous
-!!!OTL:	Eccol Messia (Lauda on Ben venga Maggio)
-!!!AGN:	Song; Carnival Song
-!!!SCT:	Ano3238.1
-!!!SCA:	Ano3238.1
-!!!SMS:	Libro primo delle laudi spirituali
-!!!folio:	
-!!!voices:	3
+!!!COM: Anonymous
+!!!OTL: Eccol Messia (Lauda on Ben venga Maggio)
+!!!AGN: Song; Carnival Song
+!!!SCT: Ano3238.1
+!!!SCA: Ano3238.1
+!!!SMS: Libro primo delle laudi spirituali
+!!!folio:
+!!!voices: 3
 **kern	**text	**kern	**text	**kern	**text
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*
@@ -125,9 +125,9 @@
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
-!!!ENC:	Jesse Rodin
-!!!END:	2019/12/08/
-!!!EED:	Jesse Rodin
-!!!EEV:	2019/12/10/
-!!!ONB:	Translated from MusicXML and edited on 2019/12/10/ by Craig Sapp
+!!!ENC: Jesse Rodin
+!!!END: 2019/12/08/
+!!!EED: Jesse Rodin
+!!!EEV: 2019/12/10/
+!!!ONB: Translated from MusicXML and edited on 2019/12/10/ by Craig Sapp
 !!muse2ps: u^Text by Lucrezia de'Medici [six more stanzas]^C^@{SMS}^v115,115,150z18t300

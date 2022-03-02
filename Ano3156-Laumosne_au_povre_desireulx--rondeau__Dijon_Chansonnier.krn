@@ -1,11 +1,11 @@
-!!!COM:	Anonymous
-!!!OTL:	L'aumosne au povre desireulx--rondeau / Dijon Chansonnier
-!!!AGN:	Song; Chanson; Rondeau
-!!!SCT:	Ano3156
-!!!SCA:	Ano3156
-!!!SMS:	Dijon Chansonnier
-!!!folio:	98v-99r
-!!!voices:	3
+!!!COM: Anonymous
+!!!OTL: L'aumosne au povre desireulx--rondeau / Dijon Chansonnier
+!!!AGN: Song; Chanson; Rondeau
+!!!SCT: Ano3156
+!!!SCA: Ano3156
+!!!SMS: Dijon Chansonnier
+!!!folio: 98v-99r
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -152,9 +152,9 @@
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: N=signum congruentiae
-!!!ENC:	Chris Gage 1-25-2017
-!!!END:	2018/12/10/
-!!!EED:	Jesse Rodin
-!!!EEV:	2018/12/13/
-!!!ONB:	Translated from MusicXML and edited on 2018/12/13/ by Craig Sapp
+!!!ENC: Chris Gage 1-25-2017
+!!!END: 2018/12/10/
+!!!EED: Jesse Rodin
+!!!EEV: 2018/12/13/
+!!!ONB: Translated from MusicXML and edited on 2018/12/13/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SMS}, @{folio}^v95,95,150Q16

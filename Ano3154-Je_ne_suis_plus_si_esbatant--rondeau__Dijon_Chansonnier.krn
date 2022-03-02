@@ -1,11 +1,11 @@
-!!!COM:	Anonymous
-!!!OTL:	Je ne suis plus si esbatant
-!!!AGN:	Song; Chanson; Rondeau
-!!!SCT:	Ano3154
-!!!SCA:	Ano3154
-!!!SMS:	Dijon Chansonnier
-!!!folio:	160v-161r
-!!!voices:	3
+!!!COM: Anonymous
+!!!OTL: Je ne suis plus si esbatant
+!!!AGN: Song; Chanson; Rondeau
+!!!SCT: Ano3154
+!!!SCA: Ano3154
+!!!SMS: Dijon Chansonnier
+!!!folio: 160v-161r
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -169,9 +169,9 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 1-25-2017
-!!!END:	2018/12/10/
-!!!EED:	Jesse Rodin
-!!!EEV:	2018/12/13/
-!!!ONB:	Translated from MusicXML and edited on 2018/12/13/ by Craig Sapp
+!!!ENC: Chris Gage 1-25-2017
+!!!END: 2018/12/10/
+!!!EED: Jesse Rodin
+!!!EEV: 2018/12/13/
+!!!ONB: Translated from MusicXML and edited on 2018/12/13/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SMS}, @{folio}^v95,95,150Q16c80

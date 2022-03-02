@@ -1,11 +1,11 @@
-!!!COM:	Anonymous
-!!!OTL:	Ou beau chastel
-!!!AGN:	Song; Chanson
-!!!SCT:	Ano3232
-!!!SCA:	Ano3232
-!!!SMS:	Leuven Chansonnier
-!!!folio:	63v-65r
-!!!voices:	3
+!!!COM: Anonymous
+!!!OTL: Ou beau chastel
+!!!AGN: Song; Chanson
+!!!SCT: Ano3232
+!!!SCA: Ano3232
+!!!SMS: Leuven Chansonnier
+!!!folio: 63v-65r
+!!!voices: 3
 **kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
 *staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
 *Ivox	*	*	*	*Ivox	*	*	*	*Ivox	*	*	*
@@ -335,12 +335,12 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Jesse Rodin
-!!!END:	2018/04/16/
-!!!EED:	Jesse Rodin
-!!!EED2:	David Burn
-!!!EED3:	Fabrice Fitch
-!!!EED4:	Adrian Armstrong
-!!!EEV:	2018/07/24/
-!!!ONB:	Translated from MusicXML and edited on 2018/07/24/ by Craig Sapp
+!!!ENC: Jesse Rodin
+!!!END: 2018/04/16/
+!!!EED: Jesse Rodin
+!!!EED2: David Burn
+!!!EED3: Fabrice Fitch
+!!!EED4: Adrian Armstrong
+!!!EEV: 2018/07/24/
+!!!ONB: Translated from MusicXML and edited on 2018/07/24/ by Craig Sapp
 !!muse2ps: C^@{SMS} (@{folio})\nEd. @{EED}, with help from @{EED4}, @{EED2}, and @{EED3}^v105,105,120Q16z18l2600c75

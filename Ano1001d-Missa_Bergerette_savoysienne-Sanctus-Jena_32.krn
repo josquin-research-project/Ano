@@ -1,14 +1,14 @@
-!!!COM:	Anonymous
-!!!OPR:	Missa [Bergerette savoysienne]
-!!!ONM:	4
-!!!OTL:	Sanctus
-!!!AGN:	Mass; Sanctus
-!!!SCT:	Ano1001d
-!!!SCA:	Ano1001d
-!!!SMS:	Jena 32
-!!!folio-OPR:	250r-264r
-!!!folio:	
-!!!voices:	4
+!!!COM: Anonymous
+!!!OPR: Missa [Bergerette savoysienne]
+!!!ONM: 4
+!!!OTL: Sanctus
+!!!AGN: Mass; Sanctus
+!!!SCT: Ano1001d
+!!!SCA: Ano1001d
+!!!SMS: Jena 32
+!!!folio-OPR: 250r-264r
+!!!folio:
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -741,9 +741,9 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin 8/14/2013
-!!!END:	2013/08/14/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/08/14/
-!!!ONB:	Translated from MusicXML and edited on 2013/08/14/ by Craig Sapp
+!!!ENC: Jesse Rodin 8/14/2013
+!!!END: 2013/08/14/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/08/14/
+!!!ONB: Translated from MusicXML and edited on 2013/08/14/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SMS}, @{folio-OPR}^i2I150v85,85,85,150c150

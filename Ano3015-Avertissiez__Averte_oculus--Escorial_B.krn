@@ -1,11 +1,11 @@
-!!!COM:	Anonymous
-!!!OTL:	Avertissiez / Averte oculus
-!!!AGN:	Song; Chanson
-!!!SCT:	Ano3015
-!!!SCA:	Ano3015
-!!!SMS:	Escorial B
-!!!folio:	
-!!!voices:	3
+!!!COM: Anonymous
+!!!OTL: Avertissiez / Averte oculus
+!!!AGN: Song; Chanson
+!!!SCT: Ano3015
+!!!SCA: Ano3015
+!!!SMS: Escorial B
+!!!folio:
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -197,9 +197,9 @@
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: N=signum congruentiae
-!!!ENC:	Chris Gage 02-19-2015
-!!!END:	2015/02/25/
-!!!EED:	Jesse Rodin
-!!!EEV:	2016/02/23/
-!!!ONB:	Translated from MusicXML and edited on 2016/02/23/ by Craig Sapp
+!!!ENC: Chris Gage 02-19-2015
+!!!END: 2015/02/25/
+!!!EED: Jesse Rodin
+!!!EEV: 2016/02/23/
+!!!ONB: Translated from MusicXML and edited on 2016/02/23/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SMS} @{folio}^v95,95,150Q16

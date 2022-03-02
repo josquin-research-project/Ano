@@ -1,11 +1,11 @@
-!!!COM:	Anonymous
-!!!OTL:	J'ay pris amours a ma devise (version with low Ct)
-!!!AGN:	Chanson
-!!!SCT:	Ano3131.2
-!!!SCA:	Ano3131.2
-!!!SMS:	
-!!!folio:	
-!!!voices:	3
+!!!COM: Anonymous
+!!!OTL: J'ay pris amours a ma devise (version with low Ct)
+!!!AGN: Chanson
+!!!SCT: Ano3131.2
+!!!SCA: Ano3131.2
+!!!SMS:
+!!!folio:
+!!!voices: 3
 **kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
 *part3	*part3	*part3	*part3	*part2	*part2	*part2	*part2	*part1	*part1	*part1	*part1
 *staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
@@ -210,9 +210,9 @@
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: N=signum congruentiae
-!!!ENC:	Chris Gage 10-12-2016
-!!!END:	2019/03/18/
-!!!EED:	Jesse Rodin
-!!!EEV:	2019/03/21/
-!!!ONB:	Translated from MusicXML and edited on 2019/03/21/ by Craig Sapp
+!!!ENC: Chris Gage 10-12-2016
+!!!END: 2019/03/18/
+!!!EED: Jesse Rodin
+!!!EEV: 2019/03/21/
+!!!ONB: Translated from MusicXML and edited on 2019/03/21/ by Craig Sapp
 !!muse2ps: C^@{COM}^v95,95,150z18c110l2650

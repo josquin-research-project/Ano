@@ -1,11 +1,11 @@
 !!!COM: Anonymous
-!!!OTL:	Tambur tambur
-!!!AGN:	Song; Chanson
-!!!SCT:	Ano3002
-!!!SCA:	Ano3002
+!!!OTL: Tambur tambur
+!!!AGN: Song; Chanson
+!!!SCT: Ano3002
+!!!SCA: Ano3002
 !!!SMS: Cortona 95-96, Paris 11v
-!!!folio: 
-!!!voices:	4
+!!!folio:
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -524,9 +524,9 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin 8/14/2013
-!!!END:	2013/08/14/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/08/14/
-!!!ONB:	Translated from MusicXML and edited on 2013/08/14/ by Craig Sapp
+!!!ENC: Jesse Rodin 8/14/2013
+!!!END: 2013/08/14/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/08/14/
+!!!ONB: Translated from MusicXML and edited on 2013/08/14/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SMS}^i2I150v85,98,85,150Q16

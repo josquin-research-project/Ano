@@ -1,11 +1,11 @@
-!!!COM:	Anonymous
-!!!OTL:	Helas mon cueur tu m'occiras
-!!!AGN:	Song; Chanson
-!!!SCT:	Ano3225
-!!!SCA:	Ano3225
-!!!SMS:	Leuven Chasonnier
-!!!folio:	17v-18r
-!!!voices:	3
+!!!COM: Anonymous
+!!!OTL: Helas mon cueur tu m'occiras
+!!!AGN: Song; Chanson
+!!!SCT: Ano3225
+!!!SCA: Ano3225
+!!!SMS: Leuven Chasonnier
+!!!folio: 17v-18r
+!!!voices: 3
 !!!ONB: Contra: 14–15: lacking; 33: e c; 37/2: g
 **kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
 *staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
@@ -145,11 +145,11 @@
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: V = start of tuplet marker
 !!!RDF**kern: Z = end of tuplet marker
-!!!ENC:	Jesse Rodin 16 April 2018
-!!!END:	2018/06/16
-!!!EED:	Jesse Rodin
-!!!EED2:	David Burn
-!!!EED3:	Fabrice Fitch
-!!!EEV:	2018/07/29
-!!!ONB:	Translated from MusicXML and edited on 2018/07/29/ by Craig Sapp
+!!!ENC: Jesse Rodin 16 April 2018
+!!!END: 2018/06/16
+!!!EED: Jesse Rodin
+!!!EED2: David Burn
+!!!EED3: Fabrice Fitch
+!!!EEV: 2018/07/29
+!!!ONB: Translated from MusicXML and edited on 2018/07/29/ by Craig Sapp
 !!muse2ps: C^@{SMS} (@{folio})\nEd. @{EED}, with help from @{EED2} and @{EED3}^v95,95,150Q16z18l2600c80

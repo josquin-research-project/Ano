@@ -1,11 +1,11 @@
-!!!COM:	Anonymous
-!!!OTL:	Puis quaultrement / Marchez la dureau
-!!!AGN:	Song; Combinative Chanson; Rondeau
-!!!SCT:	Ano3029
-!!!SCA:	Ano3029
-!!!SMS:	Dijon Chansonnier
-!!!folio:	
-!!!voices:	4
+!!!COM: Anonymous
+!!!OTL: Puis quaultrement / Marchez la dureau
+!!!AGN: Song; Combinative Chanson; Rondeau
+!!!SCT: Ano3029
+!!!SCA: Ano3029
+!!!SMS: Dijon Chansonnier
+!!!folio:
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -255,9 +255,9 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 03-05-2015
-!!!END:	2015/03/13/
-!!!EED:	Jesse Rodin
-!!!EEV:	2016/02/22/
-!!!ONB:	Translated from MusicXML and edited on 2016/02/22/ by Craig Sapp
+!!!ENC: Chris Gage 03-05-2015
+!!!END: 2015/03/13/
+!!!EED: Jesse Rodin
+!!!EEV: 2016/02/22/
+!!!ONB: Translated from MusicXML and edited on 2016/02/22/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SMS}, @{folio}^v85,85,85,150Q16

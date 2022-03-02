@@ -1,11 +1,11 @@
-!!!COM:	Anonymous
-!!!OTL:	Fama malum
-!!!AGN:	Song; Chanson
-!!!SCT:	Ano3001
-!!!SCA:	Ano3001
-!!!SMS:	Brussels 228
+!!!COM: Anonymous
+!!!OTL: Fama malum
+!!!AGN: Song; Chanson
+!!!SCT: Ano3001
+!!!SCA: Ano3001
+!!!SMS: Brussels 228
 !!!folio: 31v-32r
-!!!voices:	4
+!!!voices: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -354,9 +354,9 @@
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin 8/13/2013
-!!!END:	2013/08/13/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/08/14/
-!!!ONB:	Translated from MusicXML and edited on 2013/08/14/ by Craig Sapp
+!!!ENC: Jesse Rodin 8/13/2013
+!!!END: 2013/08/13/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/08/14/
+!!!ONB: Translated from MusicXML and edited on 2013/08/14/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SMS}, @{folio}^i2I150v85,85,85,130Q16

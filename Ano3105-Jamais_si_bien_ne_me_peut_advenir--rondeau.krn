@@ -1,14 +1,14 @@
-!!!COM:	Anonymous
-!!!OTL:	Jamais si bien ne me peut advenir
-!!!AGN:	Song; Chanson; Rondeau
-!!!SCT:	Ano3105
-!!!SCA:	Ano3105
-!!!SMS:	Dijon Chansonnier
-!!!folio:	51v-52r
-!!!SMS2:	Niv
-!!!SMS3:	Wolf
-!!!SMS4:	Lab
-!!!voices:	3
+!!!COM: Anonymous
+!!!OTL: Jamais si bien ne me peut advenir
+!!!AGN: Song; Chanson; Rondeau
+!!!SCT: Ano3105
+!!!SCA: Ano3105
+!!!SMS: Dijon Chansonnier
+!!!folio: 51v-52r
+!!!SMS2: Niv
+!!!SMS3: Wolf
+!!!SMS4: Lab
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -240,9 +240,9 @@
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: N=signum congruentiae
-!!!ENC:	Chris Gage 08-15-2016
-!!!END:	2016/08/27
-!!!EED:	Jesse Rodin
-!!!EEV:	2018/11/29
-!!!ONB:	Translated from MusicXML and edited on 2018/11/29 by Craig Sapp
+!!!ENC: Chris Gage 08-15-2016
+!!!END: 2016/08/27
+!!!EED: Jesse Rodin
+!!!EEV: 2018/11/29
+!!!ONB: Translated from MusicXML and edited on 2018/11/29 by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SMS}, @{folio}; also @{SMS2}, @{SMS3}, @{SMS4}^v95,95,150Q16c112
