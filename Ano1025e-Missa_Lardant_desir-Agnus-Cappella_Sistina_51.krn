@@ -306,7 +306,7 @@
 *MM400	*	*MM400	*	*MM400	*	*MM400	*
 !!section: Agnus dei II
 !!!OMD: Agnus dei II
-!	!	!LO:TX:X=-40:Z=8:t=T reads upside-down, ing stems	!	!	!	!	!
+!	!	!LO:TX:X=-40:Z=8:t=T reads upside-down, omitting stems	!	!	!	!	!
 [0D	A-	0r	.	[0d	A-	0a	A-
 =41.	=41.	=41.	=41.	=41.	=41.	=41.	=41.
 0D]	.	0r	.	1d]	.	1.a	-gnus
